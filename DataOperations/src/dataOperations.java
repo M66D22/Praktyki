@@ -35,7 +35,7 @@ public class dataOperations {
         String tag;
 
         String objectTypeProperty;
-        String xlink;
+        String xlinkhref;
 
         int i=0;
         try {
@@ -52,15 +52,12 @@ public class dataOperations {
             doc.getDocumentElement().normalize();
             System.out.println("Root element: "+doc.getDocumentElement().getNodeName());
             NodeList nList = doc.getElementsByTagName("IfcWallStandardCase");
-            NodeList nList2 = doc.getElementsByTagName("IfcPropertySet");
             System.out.println("------------------------");
             for (int temp=0; temp<nList.getLength(); temp++){
                 Node nNode = nList.item(temp);
-                Node nNode2 = nList2.item(temp);
 
                 if (nNode.getNodeType() == Node.ELEMENT_NODE){
                     Element eElement = (Element) nNode;
-                    Element eElement2 = (Element) nNode2;
 
                     currentElement = nNode.getNodeName();
                     id = eElement.getAttribute("id");
@@ -69,8 +66,13 @@ public class dataOperations {
                     wallPlacement = eElement.getAttribute("ObjectPlacement");
                     tag = eElement.getAttribute("Tag");
 
-                    objectTypeProperty = nNode2.getNodeName();
-                    xlink = eElement2.getAttribute("xlink:href");
+                    /*Get other components
+                    /
+                    /
+                    /
+                    /
+                    /
+                    */
 
                     //Cudzysłów w ascii
                     int ascii = 34;
@@ -81,8 +83,7 @@ public class dataOperations {
                             +asciiChar+"Id"+asciiChar+":"+asciiChar+id+asciiChar+",\n"
                             +asciiChar+"Name"+asciiChar+":"+asciiChar+name+asciiChar+",\n"
                             +asciiChar+"Object type"+asciiChar+":"+asciiChar+objectType+asciiChar+",\n"
-                            +asciiChar+"Tag"+asciiChar+":"+asciiChar+tag+asciiChar+", \n"
-                            +asciiChar+objectTypeProperty+asciiChar+":"+asciiChar+xlink+asciiChar;
+                            +asciiChar+"Tag"+asciiChar+":"+asciiChar+tag+asciiChar;
 
                     fw = new FileWriter(dataFile, true);
                     bfw = new BufferedWriter(fw);
