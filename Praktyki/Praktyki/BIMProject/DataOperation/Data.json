@@ -1,0 +1,3297 @@
+{
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfJC3",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:350955",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0YAVEgjon72xqkXId2k8M$
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1A7l10yfT8UO1rdhAYaru0
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfJC3
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_1987
+
+"Current element":"IfcWallStandardCase",
+"Id":"1NZWvKXt9C1ANRygIr4qx1",
+"Name":"Ściana podstawowa:AE_Ogólne - 380mm:607754",
+"Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 1NZWvKXt9C1ANRyhUr4qzb
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2MyCG3D4n28O5WgA4PB6ry
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0yphZ2Vjr2YfStArhSIfzA
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1NZWvKXt9C1ANR_Lcr4qx1
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #26x_QKsKz3xfPtRisL2GAz
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_71622
+
+"Current element":"IfcWallStandardCase",
+"Id":"1NZWvKXt9C1ANRygIr4qx6",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:607757",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3f_Wb4xJLBPRU0kBkLMq_F
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #05JKG$R1z6nuREbCFGgOpv
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1NZWvKXt9C1ANR_Lcr4qx6
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_71666
+
+"Current element":"IfcWallStandardCase",
+"Id":"1NZWvKXt9C1ANRygIr4qxR",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:607760",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2GTPaRIpLDYeZ2g9hn$X06
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3vT9bm3_T9r9ef5jqnAXFK
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1NZWvKXt9C1ANR_Lcr4qxR
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_71710
+
+"Current element":"IfcWallStandardCase",
+"Id":"1NZWvKXt9C1ANRygIr4q7V",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:608532",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 1NZWvKXt9C1ANRygIr4qQp
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #28WVGp8YT4q8KEWcq2uDa4
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #05koEXCP52ig9vNLGI8_wp
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1NZWvKXt9C1ANR_Lcr4q7V
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_71782
+
+"Current element":"IfcWallStandardCase",
+"Id":"2eutcpmFbD2fi1tNUuxLT4",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:610527",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2eutcpmFbD2fi1tMIuxLDJ
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2eutcpmFbD2fi1tMIuxLCV
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2bj3Wzt2z3aejmUdcAfftS
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3grukgxbj4IR6k9E2Ya0N7
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2eutcpmFbD2fi1reguxLT4
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_71837
+
+"Current element":"IfcWallStandardCase",
+"Id":"2eutcpmFbD2fi1tNUuxLQb",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:610622",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2eutcpmFbD2fi1tMIuxLEb
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0ykYxScQz2Pglr3wj73I6y
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #20nKIj$P92HB0IbodvyjIE
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2eutcpmFbD2fi1reguxLQb
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_71881
+
+"Current element":"IfcWallStandardCase",
+"Id":"2eutcpmFbD2fi1tNUuxLM8",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:610835",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2eutcpmFbD2fi1tMIuxLHL
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S$6cDlh91v8EhoXP8m$gj
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3DmTcNQp51IAw$X1I7OaLf
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2eutcpmFbD2fi1reguxLM8
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_71925
+
+"Current element":"IfcWallStandardCase",
+"Id":"2eutcpmFbD2fi1tNUuxLK7",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:610972",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2b1b$Nr850_97cEK5t$T4N
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #05RAKcYHv5Pxv72TI4T7ls
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2eutcpmFbD2fi1reguxLK7
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_71969
+
+"Current element":"IfcWallStandardCase",
+"Id":"3Z0_ocZ1v1xgmF9OBVd7fK",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:616651",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 1A3Dp$23f7QvlxQ51BDstU
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0Z3jhLbrL8kfzhNUQueedH
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3KFfD_cvr379f67_myQZyQ
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3Z0_ocZ1v1xgmFBd$Vd7fK
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_76760
+
+"Current element":"IfcWallStandardCase",
+"Id":"3Z0_ocZ1v1xgmF9OBVd7ks",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:616745",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #27bEvc7KP5FvMucE4rcepS
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1_YC_fXTPCz87S1KQvRmHC
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3Z0_ocZ1v1xgmFBd$Vd7ks
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_76804
+
+"Current element":"IfcWallStandardCase",
+"Id":"3Z0_ocZ1v1xgmF9OBVd7WU",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:617089",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3ruISPPYn9SQgv8KptCy6Q
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1w5vRBIDz4JgKWbj_PEqli
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3Z0_ocZ1v1xgmFBd$Vd7WU
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_76848
+
+"Current element":"IfcWallStandardCase",
+"Id":"3Z0_ocZ1v1xgmF9OBVd7WX",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:617150",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0uPgSFHUr2uw$trmFnyFeI
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1yf0jQytr4tQSJUfvH4rUg
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3Z0_ocZ1v1xgmFBd$Vd7WX
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_76892
+
+"Current element":"IfcWallStandardCase",
+"Id":"3Z0_ocZ1v1xgmF9OBVd7_i",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:617779",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 1A3Dp$23f7QvlxQ4DBDsuk
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 1A3Dp$23f7QvlxQ4DBDs_O
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 1A3Dp$23f7QvlxQ4DBDs$x
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 1A3Dp$23f7QvlxQ4DBDszQ
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 1A3Dp$23f7QvlxQ4DBDs2P
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 1A3Dp$23f7QvlxQ4DBDsCX
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0rCk3h5XDEtfTZ5Qtg_aWy
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3dwXQOK_DDEBVWkP7xbuHF
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3Z0_ocZ1v1xgmFBd$Vd7_i
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_77174
+
+"Current element":"IfcWallStandardCase",
+"Id":"1A3Dp$23f7QvlxQ4DBDsqc",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:621125",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2k6JucIgbDGRZEeyGJTAPo
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2FxWz8w0nCBB22R7nQAT0X
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1A3Dp$23f7QvlxOxvBDsqc
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_77623
+
+"Current element":"IfcWallStandardCase",
+"Id":"0oVDmqVK92uhvxp1TDjClQ",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:883882",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3WSSnWOU59egSRNfDOabEx
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #369XDtwff9Y8jUOvYJpiEL
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0oVDmqVK92uhvxn_fDjClQ
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_98356
+
+"Current element":"IfcWallStandardCase",
+"Id":"0oVDmqVK92uhvxp1TDjCf3",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:884019",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2$zLOJoRT7$OeJtixh7W2A
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #11WurAmXn6zuzE790OsW02
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0oVDmqVK92uhvxn_fDjCf3
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_98400
+
+"Current element":"IfcWallStandardCase",
+"Id":"0oVDmqVK92uhvxp1TDjChk",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:884126",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1wZN1M1GXD98FrGoGHCf6c
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0UEdOHumL0d8Y_w258bl$z
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0oVDmqVK92uhvxn_fDjChk
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_98444
+
+"Current element":"IfcWallStandardCase",
+"Id":"0oVDmqVK92uhvxp1TDjCgQ",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:884202",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0AvJ2LyxDD9QswyAUdMKIu
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3Cq2l6TGr6D8Ap_M9NKKHn
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0oVDmqVK92uhvxn_fDjCgQ
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_98488
+
+"Current element":"IfcWallStandardCase",
+"Id":"0oVDmqVK92uhvxp1TDj3Ui",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:884956",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0uPmTCIgXAdgmzItlh__DT
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0cq1x$34v0c82bzXqhd31r
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0oVDmqVK92uhvxn_fDj3Ui
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_98550
+
+"Current element":"IfcWallStandardCase",
+"Id":"2itRpYRzvEvf$5LWhLaYJ_",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:332598",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 0Z3mLIDUL9RxxcfAO1i2Sp
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLowmv
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLowz2
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2nYG68HmTEyRFM5nKLycjH
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2rnT4zRLv7h8ZjoQK2LTER
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5NVVLaYJ_
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_293
+
+"Current element":"IfcWallStandardCase",
+"Id":"2itRpYRzvEvf$5LWhLaYCG",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:333016",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0XfH_
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0Xefw
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0Xe4K
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3Ld8VT9ff5Iv77t4oJqC5K
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0Wtf2gpu10qRNddZzWpF9R
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5NVVLaYCG
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_1749
+
+"Current element":"IfcWallStandardCase",
+"Id":"26x_QKsKz3xfPtRisL2G8W",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:334713",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLowRi
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLowPj
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLow7x
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLow2X
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLow0t
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLowFx
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLowCD
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0X_nhACo1AGf8KTORtLBwc
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1w46WZ$OD2Rgx1tUEKLe05
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #26x_QKsKz3xfPtPJ2L2G8W
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_1828
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfJ75",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:350253",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLowde
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLowdK
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLowa4
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2PpwPDJ111VhhDnqzcqN_3
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0MZ0heGF1EReURiNyzoCe0
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfJ75
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_1898
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfJ5q",
+"Name":"Ściana podstawowa:AE_Ogólne - 380mm:350364",
+"Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0kXaNh7avF7QHy3sPqkTyK
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2a28zC$uD84ADmClEgPKRr
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #35Eu5lJer4Cu_I$o2j5_cA
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfJ5q
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #26x_QKsKz3xfPtRisL2GAz
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_1942
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfGb4",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:352428",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 10hjMMF_z1qPCktU0ENxTa
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 3Z0_ocZ1v1xgmF9P7Vd7Mt
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1kvObWaPH2MfWZfe47gKjG
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24iTmEdgD0ix5mJVWnrog$
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfGb4
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_2080
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfGB8",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:355104",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 10hjMMF_z1qPCktU0EN$zf
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 10hjMMF_z1qPCktU0EN$w0
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 10hjMMF_z1qPCktU0EN$v2
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0GUslF76D5MPl_CweB4cgX
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #22xQ5JhJ93EhyVAHZOO_7e
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfGB8
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_2292
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfGMD",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:355429",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 3SuPMUApfEIgkfCciLCLLL
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #11wB63wiL2mR7KK$MRWPWb
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2rAMibrwrBjgpv3lVhJGtf
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfGMD
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_2357
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfGJ9",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:355617",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 10hjMMF_z1qPCktU0EN$ha
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3zDmK9$Tj5_hcO_rP8n8Wm
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2jWUugJxrCnhre2Oh$_4t8
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfGJ9
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_2432
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfGVf",
+"Name":"Ściana podstawowa:AE_Ogólne - 300 mm:355841",
+"Object type":"Ściana podstawowa:AE_Ogólne - 300 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3rL9PE63zBew8gr0wWyIYV
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2fO8hJpPL81PLJq2wnPshe
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfGVf
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGTx
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_2497
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfHby",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:356500",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 10hjMMF_z1qPCktU0EN$jK
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1M6XWlHxX1e85oi4wst11P
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1G6MekaUTAPe4Oe$xxzGZ8
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfHby
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_2564
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfHZ1",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:356649",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0kXaNh7avF7QHy3sPqkYI8
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0so3uVTa92Zh0UOD8E8ZLL
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2ZgkO_66143RTUlh3sTfri
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfHZ1
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_2625
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfHlV",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:356919",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0Sh8iJkUH6IP7_Qx0TrUys
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0sPEh7quT6gBB777Qn30fH
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfHlV
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_2686
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfHsk",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:357446",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 10hjMMF_z1qPCktU0ENwdi
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3BHru0iy19Gg$rKXJybROr
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1UFaxE2bT7wBLO1hMJjKOS
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfHsk
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_2751
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfHnA",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:357794",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0ir4SqYEfDqu2SLfz6t1f_
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2$UA_DI2bEJeGETLqV4hYz
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfHnA
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_2818
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfH$K",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:357948",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0ysBNWx5b24xRsUs6igXKl
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3EUWznk8bF1ghi70hU2fMc
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfH$K
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_2885
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfHwq",
+"Name":"Ściana podstawowa:AE_Ogólne - 500 mm:358236",
+"Object type":"Ściana podstawowa:AE_Ogólne - 500 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1qJYGmwKz06QnrqENJuhTL
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #20OANzx_92$uUh6r1Cod8L
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfHwq
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfHvP
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_2950
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfH31",
+"Name":"Ściana podstawowa:AE_Ogólne - 500 mm:358697",
+"Object type":"Ściana podstawowa:AE_Ogólne - 500 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3154Ef$UT5VvmQMWBjb4Q9
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #05_kRQksHD8gSFU8uX5wAb
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfH31
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfHvP
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_3017
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfHEG",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:359032",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 10hjMMF_z1qPCktU0ENxOe
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3oLaOCtkr6CRAapymwfyG8
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #29vG2kiCHDzBAGIuvNbnuQ
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfHEG
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_3078
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_401",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:359539",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 10hjMMF_z1qPCktU0ENwZA
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1Lbwd$kbLDaRWWBPUZqVRH
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #19dOozlFrDWOPXEXF1RXpR
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_401
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_3267
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_4DH",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:360227",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1uglD7yoT2JxdnRJkIq7Za
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3fVlop2tDEbfXBcLO2rWP1
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_4DH
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_3452
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_4CC",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:360318",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0g8FOw1mX0wREweaEm_90u
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #39CxBhDq1Bvv6q1d6ie14x
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0gg4L8I2z6p8$f_gM1KlxE
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_4CC
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_3513
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_4En",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:360387",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0g8FOw1mX0wREweaEm_9V7
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2R1wvQjLP3_Alq6ccqndQX
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2f49E49LD6kxFpNUaokBeW
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_4En
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_3574
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_Bn$",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:360461",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0g8FOw1mX0wREweaEm_9TG
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1iCegF5Y9Dku6FmkDSZHiq
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0RWvHT8ujEoe57u2WWKM$O
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_Bn$
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_3635
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_Bte",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:360858",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0g8FOw1mX0wREweaEm_9KL
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2bLbxubaj5oOB0Y2IsHhJ_
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1E5ceVK750qh3R1pKt15_G
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_Bte
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_3698
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_Bva",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:360982",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2rhGjNXwLAUPq0Q9Svjx8s
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0ySeXGFkv5uQLOtSxEVloN
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_Bva
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_3771
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_Bzr",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:361223",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 10hjMMF_z1qPCktU0EN$Dc
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 10hjMMF_z1qPCktU0EN$AI
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 10hjMMF_z1qPCktU0EN$8a
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2XrJlIuYL5shRxjknaRIMX
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0y4dTyDD52sBMCQynGupqN
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_Bzr
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_3854
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_B$H",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:361379",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2qVnU_rN17ahCFZ2oqoMt$
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1Lw$2TQJ95OuwgjAW29Z7g
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_B$H
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_3921
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_BjL",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:362279",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1wz2W2AOvDa8l0T70kfUPX
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0nuI9$GPT51Pq9gbPkv8t4
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_BjL
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_3982
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_Bl2",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:362416",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1nB6y5Imb6Iwz6xk0c0rVk
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2l7Wly6tH6MeU8f8Qms4YB
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_Bl2
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_4045
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_BIu",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:362698",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1IIBNcB6f7JxgeaD2td6JY
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #21KVHBUU53_g1DpyTvHd6J
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_BIu
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_4114
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_B3f",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:363675",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3Ch2$LrbvCShYZ9w3gc_fP
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3ihlYCTtH25A6JuQzrfQvJ
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_B3f
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_4175
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_B7d",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:363925",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0DLCnippLDSPbKa$Ea6okT
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3v$21eDLf9Cwjit19W61zV
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_B7d
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_4248
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_ASR",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:367465",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #33UrqiHrrBRPEEFOCbtRGp
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0GkVRAKQTCnx3jCjowovlM
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_ASR
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_4504
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_A3_",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:367756",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1e3BmWgz9FNQP6HL6XgKfF
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1Kr2KreVb8zwFszPasam5s
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_A3_
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_4808
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_A5b",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:367895",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 3tUWPmGbLAX9ElPPaF5uPS
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0g8FOw1mX0wREweaEm_9Jp
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0iolcJb7T7nPNrqJz3uOY6
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3ruhuwoWfC9fTqtsh6DTIa
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_A5b
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_4894
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_A9i",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:368158",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1B6mG$LHn9lO75GL6ipeQo
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0Ne47Mgg166QmjGPAU5J2T
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_A9i
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_4970
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_ABH",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:368291",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 10hjMMF_z1qPCktU0EN$KK
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0Z61CNZXH7E8enBpq9QU8V
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2eR1$taLTFrAcZOxCpNGUv
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_ABH
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_5031
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_ADq",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:368390",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 10hjMMF_z1qPCktU0EN$M6
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3OzxmA68DCWvcZsxlYJXqf
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2uPNQupTD3Gx1LU63afhvv
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_ADq
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_5092
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_9m7",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:368757",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2iDxO4imX1O8io0ZKfrVWO
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0UabABQh1E$xOLakmBzKB2
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_9m7
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_5153
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_9ou",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:368842",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2BlUm3Ph946QoLTpAmTRly
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0HOhO$XUjAkgHNk$PxtsdU
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_9ou
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_5214
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_9qO",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:369002",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 10hjMMF_z1qPCktU0EN$t6
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #35aVNwwxn4pAtrIx_TEWt6
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3ZbHQHBO5EQ8PSHcbos$Ux
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_9qO
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_5277
+
+"Current element":"IfcWallStandardCase",
+"Id":"10hjMMF_z1qPCktVCENyE$",
+"Name":"Ściana podstawowa:AE_Ogólne - 300 mm:383513",
+"Object type":"Ściana podstawowa:AE_Ogólne - 300 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2p9MRLP95D9xyNGfHf4cJE
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2jfcDPxvb4nerzqvApgaHv
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #10hjMMF_z1qPCkrWuENyE$
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGTx
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_10657
+
+"Current element":"IfcWallStandardCase",
+"Id":"10hjMMF_z1qPCktVCENyAL",
+"Name":"Ściana podstawowa:AE_Ogólne - 300 mm:383795",
+"Object type":"Ściana podstawowa:AE_Ogólne - 300 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3UeZMol5z0aPEyst_aEQOC
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3HmlMqiP55VPbRcAmZwMtd
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #10hjMMF_z1qPCkrWuENyAL
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGTx
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_10722
+
+"Current element":"IfcWallStandardCase",
+"Id":"10hjMMF_z1qPCktVCENyNJ",
+"Name":"Ściana podstawowa:AE_Ogólne - 380mm:384117",
+"Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3oZrcfBJz0mu99wQdmSfCL
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1AEdsOn5r8pxCWQoGqziSu
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #10hjMMF_z1qPCkrWuENyNJ
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #26x_QKsKz3xfPtRisL2GAz
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_10783
+
+"Current element":"IfcWallStandardCase",
+"Id":"10hjMMF_z1qPCktVCENyJs",
+"Name":"Ściana podstawowa:AE_Ogólne - 300 mm:384336",
+"Object type":"Ściana podstawowa:AE_Ogólne - 300 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2PiWvcRVzBDR85p1cxi8pS
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0IRBWd24XEmPwVAcdXh6OX
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #10hjMMF_z1qPCkrWuENyJs
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGTx
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_10844
+
+"Current element":"IfcWallStandardCase",
+"Id":"10hjMMF_z1qPCktVCENyRg",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:384844",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3BYLbE8Vf6Nu9osAR1wzDc
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #25$dlSNib91BuTOzrXDc2W
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #10hjMMF_z1qPCkrWuENyRg
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_10905
+
+"Current element":"IfcWallStandardCase",
+"Id":"0kXaNh7avF7QHy3tLqkU$E",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:405690",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLowA1
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLow8f
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLows7
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLowqf
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLowrP
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0HJIyCNmPEhQuL_Xpt9IqQ
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2211kLobL2IOo6sppdUnTO
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0kXaNh7avF7QHy18XqkU$E
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_12314
+
+"Current element":"IfcWallStandardCase",
+"Id":"1CF3HP6Tb4QuEgKCXITYiH",
+"Name":"Ściana podstawowa:AE_Witryna - 50 mm:419265",
+"Object type":"Ściana podstawowa:AE_Witryna - 50 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0kXaNh7avF7QHy3sPqkV3C
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1fVHmEYfvB9Ox3tYNw8SFS
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2TW15tYEP1ixD8GbK52Nq8
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1CF3HP6Tb4QuEgMpLITYiH
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #1CF3HP6Tb4QuEgKCXITYcH
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_21783
+
+"Current element":"IfcWallStandardCase",
+"Id":"1CF3HP6Tb4QuEgKCXITYZR",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:419339",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0g8FOw1mX0wREweaEm_92f
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 10hjMMF_z1qPCktU0ENxIP
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 10hjMMF_z1qPCktU0ENxUY
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0rp2A9E054SwUfyjUYv$Vt
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0RB796Ia1BtBrP6O1oVDVN
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1CF3HP6Tb4QuEgMpLITYZR
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_21866
+
+"Current element":"IfcWallStandardCase",
+"Id":"1CF3HP6Tb4QuEgKCXITYTW",
+"Name":"Ściana podstawowa:AE_Ogólne - 500 mm:420272",
+"Object type":"Ściana podstawowa:AE_Ogólne - 500 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2RVdCdj6v4hh8tP2q7ciJz
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0LwU2Yk8P27ueL62F_XA8q
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1CF3HP6Tb4QuEgMpLITYTW
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfHvP
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_21937
+
+"Current element":"IfcWallStandardCase",
+"Id":"1CF3HP6Tb4QuEgKCXITYJH",
+"Name":"Ściana podstawowa:AE_Ogólne - 500 mm:420353",
+"Object type":"Ściana podstawowa:AE_Ogólne - 500 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1qlu5hBrDBzuwWSc1Eu1Gg
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1DHeAAfrX0TRAJJ4kxSwr8
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1CF3HP6Tb4QuEgMpLITYJH
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfHvP
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22006
+
+"Current element":"IfcWallStandardCase",
+"Id":"1CF3HP6Tb4QuEgKCXITYMn",
+"Name":"Ściana podstawowa:AE_Witryna - 50 mm:420705",
+"Object type":"Ściana podstawowa:AE_Witryna - 50 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0vFB1Zfl19yRT9vvVdVy$J
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #35hPAkr$T4xR$K1kGLRlR6
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #21eOaE_QX25gBXyvIctSof
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1CF3HP6Tb4QuEgMpLITYMn
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #1CF3HP6Tb4QuEgKCXITYcH
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22067
+
+"Current element":"IfcWallStandardCase",
+"Id":"3EJD64y2T4EvIIlRMTC4OZ",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:540124",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLovLM
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 15kNMjwdjAofrvcgBtBA1h
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLovQR
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLovR_
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLovPf
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLov64
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLov4v
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2pmnyescT0FhnPWFmpEMbi
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0C7egF0Z9BTeXtGCP8Xzp0
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3EJD64y2T4EvIIjaYTC4OZ
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_67800
+
+"Current element":"IfcWallStandardCase",
+"Id":"3EJD64y2T4EvIIlRMTC3ju",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:540807",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 3EJD64y2T4EvIIlQQTC30a
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 3EJD64y2T4EvIIlQQTC3UC
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0jfLn9qPz9KOvfeRV1dqeq
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0PRLTee3586RNEWdPxlbug
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3EJD64y2T4EvIIjaYTC3ju
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_67865
+
+"Current element":"IfcWallStandardCase",
+"Id":"3EJD64y2T4EvIIlRMTC3gS",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:541027",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLov3$
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLov12
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLov8S
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLovqY
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLovoy
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1IGnFhw61FERyw40dp7U7f
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1KBibNt510APmC$XPjAdzB
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3EJD64y2T4EvIIjaYTC3gS
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_67909
+
+"Current element":"IfcWallStandardCase",
+"Id":"3EJD64y2T4EvIIlRMTC3Xe",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:541591",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1jAixx6qT0TQpZOm_HbZc7
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1nHzlgm1n6_eQaIdKzOnRl
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3EJD64y2T4EvIIjaYTC3Xe
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_67953
+
+"Current element":"IfcWallStandardCase",
+"Id":"3EJD64y2T4EvIIlRMTC3_x",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:541764",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 3EJD64y2T4EvIIlQQTC3NF
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 3EJD64y2T4EvIIlQQTC3Jk
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 3EJD64y2T4EvIIlQQTC2kl
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 1$bR_T6or1491dmgmnZaam
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2ipn2ZgJXCluZ3nIhSfT_U
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3T_LrJU6193OPiH1bidWJA
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3EJD64y2T4EvIIjaYTC3_x
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_67997
+
+"Current element":"IfcWallStandardCase",
+"Id":"3EJD64y2T4EvIIlRMTC3ze",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:541847",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 3EJD64y2T4EvIIlQQTC2e3
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0UAbkBZNLCxPo8jKW2mcZ0
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1VG4NNUVr9iAP2e9FlaXCi
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3EJD64y2T4EvIIjaYTC3ze
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_68041
+
+"Current element":"IfcWallStandardCase",
+"Id":"3EJD64y2T4EvIIlRMTC3xk",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:541969",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 3EJD64y2T4EvIIlQQTC2gt
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #15G5CKthr8ZvdGD4FLso84
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2rhYf$i8n8nORDWHZLOB0N
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3EJD64y2T4EvIIjaYTC3xk
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_68085
+
+"Current element":"IfcWallStandardCase",
+"Id":"3EJD64y2T4EvIIlRMTC3wc",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:542041",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0yAnpoaeXFmQsfbOxYOKGF
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2X6p90GmD2YBZ1SqyXwvEl
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3EJD64y2T4EvIIjaYTC3wc
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_68129
+
+"Current element":"IfcWallStandardCase",
+"Id":"3EJD64y2T4EvIIlRMTC3w0",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:542079",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1Gf9OYwFv4s94HK56jYeaf
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0bMasYqqDBwgp4heY2ecC5
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3EJD64y2T4EvIIjaYTC3w0
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_68173
+
+"Current element":"IfcWallStandardCase",
+"Id":"3EJD64y2T4EvIIlRMTC3uw",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:542149",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 1$bR_T6or1491dmgmnZahz
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1mqTJsl4j3m9Faw336h5I3
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #08FXx9XvDERAc90EyL8Czx
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3EJD64y2T4EvIIjaYTC3uw
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_68217
+
+"Current element":"IfcWallStandardCase",
+"Id":"3EJD64y2T4EvIIlRMTC3qD",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:542450",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 1$bR_T6or1491dmgmnZacY
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3GGuA3Jjf0TPBcxeb19Oji
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2Zz1nyRm17UP0klUuKCTP_
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3EJD64y2T4EvIIjaYTC3qD
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_68261
+
+"Current element":"IfcWallStandardCase",
+"Id":"3EJD64y2T4EvIIlRMTC3n4",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:542651",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 3EJD64y2T4EvIIlQQTC2$a
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 3EJD64y2T4EvIIlQQTC2ys
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3Z2HB16h58AAJbYlCcAHyP
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3C2kmALNf26Bn_cGI8AIAf
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3EJD64y2T4EvIIjaYTC3n4
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_68305
+
+"Current element":"IfcWallStandardCase",
+"Id":"3EJD64y2T4EvIIlRMTC38d",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:543192",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0fS3aYRvTEyBQc1XisP31D
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #10lfGuf$XDYwUWsOuPHUhq
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3EJD64y2T4EvIIjaYTC38d
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_68349
+
+"Current element":"IfcWallStandardCase",
+"Id":"3EJD64y2T4EvIIlRMTC2aa",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:545499",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 23x4aLjLn5reMngYR6tLce
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 3EJD64y2T4EvIIlQQTC2Yf
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 3EJD64y2T4EvIIlQQTC2Wt
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1C7E05_fLCVOtcVBKQRT1E
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0nEwVpVuT7tx6C0EZorhc7
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3EJD64y2T4EvIIjaYTC2aa
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_68643
+
+"Current element":"IfcWallStandardCase",
+"Id":"15jBgJ4df0GwXJuL1YgfTg",
+"Name":"Ściana podstawowa:AE_Ogólne - 380mm:550875",
+"Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 27HAz6hen6rx0QDBzdDmTX
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0W_O8odUT9Xv7Dehtfq3Mt
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #34lM8YKGzAu8rCBaTRxNjV
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #15jBgJ4df0GwXJwgrYgfTg
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #26x_QKsKz3xfPtRisL2GAz
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_69149
+
+"Current element":"IfcWallStandardCase",
+"Id":"15jBgJ4df0GwXJuL1Ygfwx",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:552458",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1aQFpYopT4YONhw30R7D70
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #00y2pYmy5C4QjilbWkA91n
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #15jBgJ4df0GwXJwgrYgfwx
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_69258
+
+"Current element":"IfcWallStandardCase",
+"Id":"15jBgJ4df0GwXJuL1Yge33",
+"Name":"Ściana podstawowa:AE_Ogólne - 380mm:553074",
+"Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3r8yL5$HP3Wgijkn3QeEAW
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1StvrHn758mxYpGPDxJhnE
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #15jBgJ4df0GwXJwgrYge33
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #26x_QKsKz3xfPtRisL2GAz
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_69325
+
+"Current element":"IfcWallStandardCase",
+"Id":"15jBgJ4df0GwXJuL1YgeA5",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:553524",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0wc8jEKz9219DVlXcgk0WD
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #36siDb8rz8Ve25aXxCQfWO
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #15jBgJ4df0GwXJwgrYgeA5
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_69392
+
+"Current element":"IfcWallStandardCase",
+"Id":"2KPufnVTv81gAAH7LH46pU",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:554952",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 2uUynbq0f9RBW7aowMJsJ_
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 1tDexFO5P1iPWqmykGFQqY
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLovbF
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLovc0
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLova5
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLovgB
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0VyuXOf8j3Pe8ZxdwLowNy
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2spPYEagrBLA69Qud2Hksu
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2NX$wVOqzE0xW69n_7ONqB
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2KPufnVTv81gAAJuXH46pU
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_69585
+
+"Current element":"IfcWallStandardCase",
+"Id":"2KPufnVTv81gAAH7LH46Al",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:555449",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 1g9QtFOmn5dxJtR8cUyMyR
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2KPufnVTv81gAAH6PH46B3
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #212VMrE0j31AEj5ze7p19U
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3So6Xeh8159R_LStXPNvXP
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2KPufnVTv81gAAJuXH46Al
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_69640
+
+"Current element":"IfcWallStandardCase",
+"Id":"1tDexFO5P1iPWqmzYGFQ_k",
+"Name":"Ściana podstawowa:AE_Ogólne - 380mm:592835",
+"Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 1tDexFO5P1iPWqmzYGFR27
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #045UhMhqzFkOxflJ4G9VbW
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3vavzq4rXBUer5qtMV$$jl
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1tDexFO5P1iPWqo2MGFQ_k
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #26x_QKsKz3xfPtRisL2GAz
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_70110
+
+"Current element":"IfcWallStandardCase",
+"Id":"1tDexFO5P1iPWqmzYGFQjF",
+"Name":"Ściana podstawowa:AE_Ogólne - kotara:593698",
+"Object type":"Ściana podstawowa:AE_Ogólne - kotara",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3c_o4Xc8zDT8zQfXmKuXKV
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1w8mjZ4nT1FxbMs3m08Z$w
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1tDexFO5P1iPWqo2MGFQjF
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #1tDexFO5P1iPWqmzYGFQhb
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_70186
+
+"Current element":"IfcWallStandardCase",
+"Id":"1tDexFO5P1iPWqmzYGFRO3",
+"Name":"Ściana podstawowa:AE_Ogólne - kotara:594542",
+"Object type":"Ściana podstawowa:AE_Ogólne - kotara",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0s5gqFsErELemNgN_NbDJR
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3cIhT$on1DRBdt3ZCVYZEW
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1tDexFO5P1iPWqo2MGFRO3
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #1tDexFO5P1iPWqmzYGFQhb
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_70238
+
+"Current element":"IfcWallStandardCase",
+"Id":"2uUynbq0f9RBW7aowMJs4Z",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:598301",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 2uUynbq0f9RBW7aowMJs7E
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 1NZWvKXt9C1ANRygIr4qMH
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 1NZWvKXt9C1ANRygIr4qNC
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 1NZWvKXt9C1ANRygIr4qHl
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 1NZWvKXt9C1ANRygIr4qJq
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 1NZWvKXt9C1ANRygIr4qCL
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 1NZWvKXt9C1ANRygIr4qEq
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 1NZWvKXt9C1ANRygIr4qFZ
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 1NZWvKXt9C1ANRygIr4q8g
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 1NZWvKXt9C1ANRygIr4q9D
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 1NZWvKXt9C1ANRygIr4qB_
+Node Name = IfcOpeningElement; Value = 
+								
+								
+								
+							
+    Attr name : id; Value = 1NZWvKXt9C1ANRygIr4q4P
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3PI5CLrUrCzfLIoJA4hQvM
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #25HeK15$rAFxZ2lYWdQejb
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2uUynbq0f9RBW7cDEMJs4Z
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_71349
+
+"Current element":"IfcWallStandardCase",
+"Id":"2uUynbq0f9RBW7aowMJsbL",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:600427",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2iG9UCrnn3tQpoqu7s$2og
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0cYVyyV1L8meS8z3nI8nKI
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2uUynbq0f9RBW7cDEMJsbL
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_71542
+
+"Current element":"IfcWallStandardCase",
+"Id":"1v_sWJlo59X8lj20i1p7dz",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:627490",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2qDioDIFLCtgO6fEdM3A_a
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #27JtO_p49CGApRYRjiUFEv
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1v_sWJlo59X8lj0$O1p7dz
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_85976
+
+"Current element":"IfcWallStandardCase",
+"Id":"0mKwvPVC9DkO5ql64APhHg",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:840999",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3xEi99CyX2BwUMzSkb6_9e
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0zlFkgevr1pA2rMjUlTu8i
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0mKwvPVC9DkO5qjvmAPhHg
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_97042
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfGWn",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:352729",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0kXaNh7avF7QHy3sPqkTue
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0kXaNh7avF7QHy3sPqkTqb
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2cNRupmcfBtxDGa93nGzUM
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3CGyQpGJH7CRQ2MDDGhiHy
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfGWn
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_2129
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfGkB",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:352867",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0kXaNh7avF7QHy3sPqkT_U
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2HQAJL_4v98h0PlOW178Lg
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1Okw7fqWHBZxWZzFbF8qol
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfGkB
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_2179
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfGjD",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:352933",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0kXaNh7avF7QHy3sPqkTw3
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0mJ8XbseT7dOfRgWWYAnVM
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1SgNxxaivBWhibOB5pRcxW
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfGjD
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_2223
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfHCS",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:359156",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0TESGUNLv4gvRz$P2mYFE$
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3yQSk22jjAJ9amAjc2tnh_
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfHCS
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_3141
+
+"Current element":"IfcWallStandardCase",
+"Id":"24ZTSdM7bD39hX0jOUfHBG",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:359224",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1FW7oSBXb7V8ZO0ShWkcc_
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2L5KLIPi95QRXhu9ulUmp2
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX2IiUfHBG
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_3202
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_46i",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:359902",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 10hjMMF_z1qPCktU0ENwX2
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1OqRksk1jAGgNQcKiOZz2i
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2jp9LNuYbEsvrv6BhkoFFy
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_46i
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_3330
+
+"Current element":"IfcWallStandardCase",
+"Id":"0g8FOw1mX0wREweb2m_48g",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:360024",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1OVYIvwXPBQebnOxjxcQqL
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2ENvcdh3TFHvOLjgaqUO1$
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0g8FOw1mX0wREwgQsm_48g
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_3391
+
+"Current element":"IfcWallStandardCase",
+"Id":"0kXaNh7avF7QHy3tLqkYNI",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:391846",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0mbXtmr1P8L9EFdbJS9X1D
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #13aQHKB4b6YOSExlDq1JJC
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0kXaNh7avF7QHy18XqkYNI
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_11790
+
+"Current element":"IfcWallStandardCase",
+"Id":"2PsTDU3rPC3Q4jVZxaRhcC",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:412054",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0XfLZ
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0XfLW
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0XfLX
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0XfLk
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0XfLl
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0XfLi
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0XfLj
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0XfLg
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0XfLh
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0XfLe
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0XfLf
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0XfLs
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0XfL6
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0Xe43
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0Xe40
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0Xe41
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0Xe4E
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0Xe4F
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0Xe4C
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0Xe4D
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0Xe4A
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0Xe4B
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0Xe48
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0Xe49
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0Xe4M
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2E9BQ_$UD7YAxl0EM0Xe4N
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2c_mOqVpbABRF17UdAqKSu
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0tKMsqzELCvwCGsEoNBw3R
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2PsTDU3rPC3Q4jTSFaRhcC
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_20765
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXyJU",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:421220",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2S5Uyqz1PAvOb6Q_YxXoPH
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2S5Uyqz1PAvOb6Q_YxXpaM
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2S5Uyqz1PAvOb6Q_YxXpZX
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1yH5CoUQ5CORfCsvgwgijE
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3vXH7akNfC$QXW7BLXWO4O
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXyJU
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22111
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXziC",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:422582",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #01VwSEDCPEqg$2vMQ6Lvcy
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #13k$sm31L2COvZvUHCHJE1
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXziC
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22155
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXzso",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:422920",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2S5Uyqz1PAvOb6Q_YxXo_A
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2S5Uyqz1PAvOb6Q_YxXoz6
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2S5Uyqz1PAvOb6Q_YxXoxb
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2S5Uyqz1PAvOb6Q_YxXovf
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2S5Uyqz1PAvOb6Q_YxXo2C
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3JM79AnKLFNxUMOzgckfO0
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0kBUAOikvDwxNJTibNxAjx
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXzso
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22199
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXztp",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:422985",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3KR9lcgZr63f63V1sbW5x0
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1VLQT9MWL5JeBRIHnmPHf2
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXztp
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22243
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXztt",
+"Name":"Ściana podstawowa:AE_Ogólne - 380mm:422989",
+"Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1m8$iWSTDBrv6$HEWjs793
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2OVsZgMU5EHR$qWTB13EfI
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXztt
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #26x_QKsKz3xfPtRisL2GAz
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22287
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXztq",
+"Name":"Ściana podstawowa:AE_Ogólne - 300 mm:422990",
+"Object type":"Ściana podstawowa:AE_Ogólne - 300 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1qZuNUHhn5W91rDcb$2iAk
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0oc0FnOEn0bOksIT9UsHx4
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXztq
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGTx
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22331
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXztr",
+"Name":"Ściana podstawowa:AE_Ogólne - 500 mm:422991",
+"Object type":"Ściana podstawowa:AE_Ogólne - 500 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2SOiZz3$fAKguYerIruEjK
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1IQylZNIXFcBVBsOMBzd69
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXztr
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfHvP
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22375
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXzpK",
+"Name":"Ściana podstawowa:AE_Ogólne - 380mm:423278",
+"Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2tCpaDYVb5evyDoJKxloKc
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3oVYyMXI5DWuGVadMGikRn
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXzpK
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #26x_QKsKz3xfPtRisL2GAz
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22419
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXzyW",
+"Name":"Ściana podstawowa:AE_Ogólne - 380mm:423578",
+"Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0Q7sUrwUD9IvXOuP45aEHo
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2VKQHRUyb3$xGnlIyAWA2t
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXzyW
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #26x_QKsKz3xfPtRisL2GAz
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22463
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXz65",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:423999",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #38F_uJm3rC_vAOySzxL1dp
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2B8kVMroPAdg6x7$WSrjZl
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXz65
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22507
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXz4Q",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:424096",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3rfWd7Uz15GeToKd7Et4m3
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3nFUDcrzz6QvxTBYgbT0nM
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXz4Q
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22551
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXz3i",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:424278",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 33ahGgZpn2OA2O_9_ve2JI
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2qV9SXWx5C39PCeSGTBhT4
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0jx9R2lfjAGBnKrUqfhSm_
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXz3i
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22595
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXzCc",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:424604",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2YrHe$G3HEkvWMVvLkXqiN
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2MCYn1paTFWBxrisTAcZBo
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXzCc
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22639
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXzAr",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:424719",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2S5Uyqz1PAvOb6Q_YxXopx
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2S5Uyqz1PAvOb6Q_YxXomE
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2QZ4sgSur0JviPWxbtj$Aa
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3i_HgWcfD9MBQoYp1fnD0$
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXzAr
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22683
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXz81",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:424891",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #14j1K$rvvChRP9j80FCo5q
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0e9IVtRgP9_OEKsvMJWqRj
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXz81
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22727
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXzKZ",
+"Name":"Ściana podstawowa:AE_Ogólne - 300 mm:425113",
+"Object type":"Ściana podstawowa:AE_Ogólne - 300 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0wZndxYs1CkBaA8AQYgCve
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1liS$H8zXBUB2MI4eZKIMJ
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXzKZ
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGTx
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22771
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXoce",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:426002",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2S5Uyqz1PAvOb6Q_YxXo0X
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3oHvgKUff1zwPA8pYxKVQ2
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3FPPfwnIH17xdV5B6VeAoG
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXoce
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22815
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXoaY",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:426136",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #27vi5ssBnATvEuD8y1zJl3
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2hBzrihXH56hgzNLB1FZh4
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXoaY
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22859
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXobM",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:426220",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2IyTERuFT8VQTVX8dXqMh8
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0DK$7MDZn1XxPcmbOYctvh
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXobM
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22903
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXoZZ",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:426329",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1LUM4mLefEeuYHZlcOGAVZ
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #03CgAsmhn9IvpflKRXkusd
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXoZZ
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22947
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXoXH",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:426475",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1y9ILNEQ51chYUjXG1k8AV
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2cn3c02xD1Lv6PwUjzF5AA
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXoXH
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_22991
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXoiP",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:426659",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2S5Uyqz1PAvOb6Q_YxXplU
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3gJGnennr7hf$G5y7YQgdg
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2F7b3vGovCYeuLWRkHkX6n
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXoiP
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_23035
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXohQ",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:426848",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2S5Uyqz1PAvOb6Q_YxXo42
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2WzGuUCwf8GR58TgLUPYxt
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0hLABN9x902ByZECKscOC5
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXohQ
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_23079
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXoto",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:427080",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2S5Uyqz1PAvOb6Q_YxXphl
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2pNyypwb15X8FrBBMsVEOH
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1o01zb6DrAkPGRZgMa9x8F
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXoto
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_23123
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXoqr",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:427151",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2mIWs8yMf67ucnU8poGzCn
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0RLoXaERTBR9ofO3r87Tkc
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXoqr
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_23167
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXoDE",
+"Name":"Ściana podstawowa:AE_Ogólne - 380mm:428788",
+"Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2S5Uyqz1PAvOb6Q_YxXoEJ
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1u9d1GVNb4GRAFBzE7Nqtb
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3EnpMpTzPACuaB2ywky4$n
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXoDE
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #26x_QKsKz3xfPtRisL2GAz
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_23896
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXoBB",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:428913",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3o8z8w$GjCZh4FrhMI8C20
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2L$53Z9tTEX8qOoaEw5cSt
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXoBB
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_23940
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXoM3",
+"Name":"Ściana podstawowa:AE_Ogólne - 380mm:429113",
+"Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 2S5Uyqz1PAvOb6Q_YxXoHX
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0tDs3jVu94wgKzR813nlqW
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1JPaSLDxrEURl7SwLx3jc5
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXoM3
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #26x_QKsKz3xfPtRisL2GAz
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_23984
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXoIb",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:429343",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3BhkYTsdT6n87zX4sjcvWj
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2AGamr46P18eoUzYYQ$zgE
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXoIb
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_24028
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXprD",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:431351",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3nOrAGNw110OEgovItH11t
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3K92foXo552OaIw6VQqWBy
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXprD
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_24412
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXpmZ",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:431513",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1y_MFbb756Px$$WoeKZzFo
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #12$t9PPZnCif$aQ5pup_tm
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXpmZ
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_24465
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXpm6",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:431548",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1R_19Qg0v3OOg5KnmhKwDl
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0t5zvZ8Fr1rvD62BuobQio
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXpm6
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_24516
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXp$E",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:431732",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0TW4fkUWTCieKBGVW_3zZs
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1BMSZRtWbBVfztdGVfyyOt
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3_8oMA1jf9gwI$Y15P7GOS
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXp$E
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_24571
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXpy5",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:431807",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #28h3jnjYrAyf1oink$kc8j
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0K2B2PRb117xG4h6Myh3AQ
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXpy5
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_24622
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXpuR",
+"Name":"Ściana podstawowa:AE_Ogólne - 440 mm:432033",
+"Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0TW4fkUWTCieKBGVW_3yVP
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0TW4fkUWTCieKBGVW_3ySm
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0TW4fkUWTCieKBGVW_3zhH
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0TW4fkUWTCieKBGVW_3ziD
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1G171YjEHDpAJvfpTk04AO
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0$P8MIFcvFsvAW76W85guN
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXpuR
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #2itRpYRzvEvf$5LWhLaYO_
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_24666
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXp5a",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:432350",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2HNujYUe574P28BPjOKJdm
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0kMn9RxrX2HfK7yrEW1NF6
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXp5a
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_24710
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXp3D",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:432503",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1D02al2zrE9x9a66IqJEjb
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1TUkFHFfj1bgjYyM49wbWz
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXp3D
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_24754
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXp1B",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:432625",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0TW4fkUWTCieKBGVW_3zZw
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0TD8L3DuP5oPnMW2V1i2va
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1EpHHBzO5Al9FlyinbghSw
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXp1B
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_24798
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXpFK",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:432750",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0TW4fkUWTCieKBGVW_3yNq
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2cUjqLvIXFuA4MTH1eDP7Y
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1bzlnz3Iv949lcd5LdvMxZ
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXpFK
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_24842
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXpAz",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:432903",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0TW4fkUWTCieKBGVW_3zfl
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #24sqO$Jiz6swP6kGo2Ntzv
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0y8ZJ6fcPENRY3Szolldsq
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXpAz
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_24886
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXp9J",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:433129",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0TW4fkUWTCieKBGVW_3zld
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0GuBKXHoX7qf1Ie3gp0v66
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1stqZh3XbCHeqqSW1Tdhhw
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXp9J
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_24930
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXpNV",
+"Name":"Ściana podstawowa:AE_Ogólne - 380mm:433253",
+"Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2zob4QUIPAFhklXtqmjsI5
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #14eshZZ9fCahRcAfrDrkTL
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXpNV
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #26x_QKsKz3xfPtRisL2GAz
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_25008
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXpNS",
+"Name":"Ściana podstawowa:AE_Ogólne - 300 mm:433254",
+"Object type":"Ściana podstawowa:AE_Ogólne - 300 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3b_ROYg3L1ywxn5hu5tqN$
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2Z9szR0srFoP8F3_Yv5qPx
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXpNS
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGTx
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_25052
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXpNT",
+"Name":"Ściana podstawowa:AE_Ogólne - 500 mm:433255",
+"Object type":"Ściana podstawowa:AE_Ogólne - 500 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #23y49$nSX4bvSDbCGSDw_u
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3mYZvGhWfFGxf57dxVF3R4
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXpNT
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfHvP
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_25096
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXpNI",
+"Name":"Ściana podstawowa:AE_Ogólne - 380mm:433256",
+"Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3F1CASAgH5gh$_wmEwENVL
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1uBaK5yR96qQqGNh0E8$n9
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXpNI
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #26x_QKsKz3xfPtRisL2GAz
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_25140
+
+"Current element":"IfcWallStandardCase",
+"Id":"2S5Uyqz1PAvOb6Q$kxXpNJ",
+"Name":"Ściana podstawowa:AE_Ogólne - 380mm:433257",
+"Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0_o3DtE_99LhYPJJofXy2a
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1HPv_EIuzAlA95DwocUEVO
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2S5Uyqz1PAvOb6O0QxXpNJ
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #26x_QKsKz3xfPtRisL2GAz
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_25184
+
+"Current element":"IfcWallStandardCase",
+"Id":"0TW4fkUWTCieKBGUi_3$Hx",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:433835",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0TW4fkUWTCieKBGVW_3yQe
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0Ub8rfZMX6rAui1shJDaK8
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0Ub8rfZMX6rAui1shJDaQQ
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3_yCuUxfP8n9J8QEihO2H9
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1AUHvkkI11Q8jzhgzXkAfs
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0TW4fkUWTCieKBIXO_3$Hx
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_25228
+
+"Current element":"IfcWallStandardCase",
+"Id":"0TW4fkUWTCieKBGUi_3$MV",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:433999",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0TW4fkUWTCieKBGVW_3yrh
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #03HmKGFLL4PxZUVZkmdYwD
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1XdhGzCe16b8DZWCL_mKDT
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0TW4fkUWTCieKBIXO_3$MV
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_25272
+
+"Current element":"IfcWallStandardCase",
+"Id":"0TW4fkUWTCieKBGUi_3$KM",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:434118",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0TW4fkUWTCieKBGVW_3ysP
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0QdktWEq1DBRZN0PoBrWOP
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #33HuBmeH57DwVYrDe5W1Kx
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0TW4fkUWTCieKBIXO_3$KM
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_25316
+
+"Current element":"IfcWallStandardCase",
+"Id":"0TW4fkUWTCieKBGUi_3yhU",
+"Name":"Ściana podstawowa:AE_Ogólne - 240 mm:434190",
+"Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0LQvT_Z0b6NRM1bbCjYzJS
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3oXX9tfJv8OQ4aU7nbEsyi
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0TW4fkUWTCieKBIXO_3yhU
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGsC
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_25360
+
+"Current element":"IfcWallStandardCase",
+"Id":"0TW4fkUWTCieKBGUi_3yfZ",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:434355",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3OuX_yTRjCuvyai1rQZ1Gj
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1wMDr571HChgTjUtT15AYJ
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0TW4fkUWTCieKBIXO_3yfZ
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_25404
+
+"Current element":"IfcWallStandardCase",
+"Id":"0TW4fkUWTCieKBGUi_3yj9",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:434585",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0TW4fkUWTCieKBGVW_3yR2
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2ukfTxAO954xVhy7IECnOu
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1T26PU2P91sgjZq3QKiBeY
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0TW4fkUWTCieKBIXO_3yj9
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_25448
+
+"Current element":"IfcWallStandardCase",
+"Id":"0TW4fkUWTCieKBGUi_3yu5",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:435413",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2dKBfViFz6PxWFu25gB_o9
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2eHNNTYHz2ORr2iRKZO2DP
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0TW4fkUWTCieKBIXO_3yu5
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_25492
+
+"Current element":"IfcWallStandardCase",
+"Id":"0TW4fkUWTCieKBGUi_3y$E",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:435486",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2adAgP0Pr7BfjNm8SUwXj4
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0exa2BAJT2K942R7AOlu1D
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0TW4fkUWTCieKBIXO_3y$E
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_25536
+
+"Current element":"IfcWallStandardCase",
+"Id":"0TW4fkUWTCieKBGUi_3yyF",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:435679",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0TW4fkUWTCieKBGVW_3y95
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0TW4fkUWTCieKBGVW_3yFb
+Node Name = IfcOpeningElement; Value = 
+    Attr name : id; Value = 0TW4fkUWTCieKBGVW_3yCB
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0IsAFE88v2LuLXvmuROvHd
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0QhtnfNYD7CBnQF7a89jqu
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0TW4fkUWTCieKBIXO_3yyF
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_25580
+
+"Current element":"IfcWallStandardCase",
+"Id":"0TW4fkUWTCieKBGUi_3ymQ",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:435914",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #1z16i0OsfEb9zOH16HrPYW
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #341QLajRHCdufxoAIYvweb
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0TW4fkUWTCieKBIXO_3ymQ
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_25624
+
+"Current element":"IfcWallStandardCase",
+"Id":"0TW4fkUWTCieKBGUi_3y0B",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:436955",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0xXYHnF9z6zQnxXlrN8Ujp
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #3fgEsBzHf7sOgilMccbvEc
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0TW4fkUWTCieKBIXO_3y0B
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_25803
+
+"Current element":"IfcWallStandardCase",
+"Id":"0TW4fkUWTCieKBGUi_3y7u",
+"Name":"Ściana podstawowa:AE_Ogólne - 120 mm:437032",
+"Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0hK6QMwdr4rey$Q8OukSA5
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #2DjpgTm_HASArG$d18SX47
+Node Name = IfcPropertySet; Value = 
+    Attr name : xlink:href; Value = #0TW4fkUWTCieKBIXO_3y7u
+Node Name = IfcWallType; Value = 
+    Attr name : xlink:href; Value = #24ZTSdM7bD39hX0jOUfGZi
+Node Name = IfcPresentationLayerAssignment; Value = 
+    Attr name : xlink:href; Value = #A-WALL-____-OTLN
+Node Name = IfcMaterialLayerSetUsage; Value = 
+    Attr name : xlink:href; Value = #IfcMaterialLayerSetUsage_25847
+}
