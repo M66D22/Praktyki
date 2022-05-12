@@ -1,0 +1,4847 @@
+{
+   "metaData": [
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfJC3",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:350955",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"350955",
+          "propertySet": [
+              {
+                  "id": "0YAVEgjon72xqkXId2k8M$",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1A7l10yfT8UO1rdhAYaru0",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfJC3",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"1NZWvKXt9C1ANRygIr4qx1",
+          "name":"Ściana podstawowa:AE_Ogólne - 380mm:607754",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+          "Tag":"607754",
+          "propertySet": [
+              {
+                  "id": "2MyCG3D4n28O5WgA4PB6ry",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0yphZ2Vjr2YfStArhSIfzA",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1NZWvKXt9C1ANR_Lcr4qx1",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"1NZWvKXt9C1ANRygIr4qx6",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:607757",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"607757",
+          "propertySet": [
+              {
+                  "id": "3f_Wb4xJLBPRU0kBkLMq_F",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "05JKG$R1z6nuREbCFGgOpv",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1NZWvKXt9C1ANR_Lcr4qx6",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"1NZWvKXt9C1ANRygIr4qxR",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:607760",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"607760",
+          "propertySet": [
+              {
+                  "id": "2GTPaRIpLDYeZ2g9hn$X06",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3vT9bm3_T9r9ef5jqnAXFK",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1NZWvKXt9C1ANR_Lcr4qxR",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"1NZWvKXt9C1ANRygIr4q7V",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:608532",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"608532",
+          "propertySet": [
+              {
+                  "id": "2s8wITGLD06BcwG_4z58jE",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1wArWZru97RuD1LNDwhsYw",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "28WVGp8YT4q8KEWcq2uDa4",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2eutcpmFbD2fi1tNUuxLT4",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:610527",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"610527",
+          "propertySet": [
+              {
+                  "id": "2bj3Wzt2z3aejmUdcAfftS",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3grukgxbj4IR6k9E2Ya0N7",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2eutcpmFbD2fi1reguxLT4",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2eutcpmFbD2fi1tNUuxLQb",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:610622",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"610622",
+          "propertySet": [
+              {
+                  "id": "0ykYxScQz2Pglr3wj73I6y",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "20nKIj$P92HB0IbodvyjIE",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2eutcpmFbD2fi1reguxLQb",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2eutcpmFbD2fi1tNUuxLM8",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:610835",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"610835",
+          "propertySet": [
+              {
+                  "id": "2S$6cDlh91v8EhoXP8m$gj",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3DmTcNQp51IAw$X1I7OaLf",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2eutcpmFbD2fi1reguxLM8",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2eutcpmFbD2fi1tNUuxLK7",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:610972",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"610972",
+          "propertySet": [
+              {
+                  "id": "2b1b$Nr850_97cEK5t$T4N",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "05RAKcYHv5Pxv72TI4T7ls",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2eutcpmFbD2fi1reguxLK7",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"3Z0_ocZ1v1xgmF9OBVd7fK",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:616651",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"616651",
+          "propertySet": [
+              {
+                  "id": "0Z3jhLbrL8kfzhNUQueedH",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3KFfD_cvr379f67_myQZyQ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3Z0_ocZ1v1xgmFBd$Vd7fK",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"3Z0_ocZ1v1xgmF9OBVd7ks",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:616745",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"616745",
+          "propertySet": [
+              {
+                  "id": "27bEvc7KP5FvMucE4rcepS",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1_YC_fXTPCz87S1KQvRmHC",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3Z0_ocZ1v1xgmFBd$Vd7ks",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"3Z0_ocZ1v1xgmF9OBVd7WU",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:617089",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"617089",
+          "propertySet": [
+              {
+                  "id": "3ruISPPYn9SQgv8KptCy6Q",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1w5vRBIDz4JgKWbj_PEqli",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3Z0_ocZ1v1xgmFBd$Vd7WU",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"3Z0_ocZ1v1xgmF9OBVd7WX",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:617150",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"617150",
+          "propertySet": [
+              {
+                  "id": "0uPgSFHUr2uw$trmFnyFeI",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1yf0jQytr4tQSJUfvH4rUg",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3Z0_ocZ1v1xgmFBd$Vd7WX",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"3Z0_ocZ1v1xgmF9OBVd7_i",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:617779",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"617779",
+          "propertySet": [
+              {
+                  "id": "1wIgYp$YL9oOJdn5KKPpdx",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3fXaJ8RLTD6wQ3oOo_fHnC",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "33YLFEie93TB$sIQQeWFIs",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"1A3Dp$23f7QvlxQ4DBDsqc",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:621125",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"621125",
+          "propertySet": [
+              {
+                  "id": "2k6JucIgbDGRZEeyGJTAPo",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2FxWz8w0nCBB22R7nQAT0X",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1A3Dp$23f7QvlxOxvBDsqc",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0oVDmqVK92uhvxp1TDjClQ",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:883882",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"883882",
+          "propertySet": [
+              {
+                  "id": "3WSSnWOU59egSRNfDOabEx",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "369XDtwff9Y8jUOvYJpiEL",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0oVDmqVK92uhvxn_fDjClQ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0oVDmqVK92uhvxp1TDjCf3",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:884019",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"884019",
+          "propertySet": [
+              {
+                  "id": "2$zLOJoRT7$OeJtixh7W2A",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "11WurAmXn6zuzE790OsW02",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0oVDmqVK92uhvxn_fDjCf3",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0oVDmqVK92uhvxp1TDjChk",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:884126",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"884126",
+          "propertySet": [
+              {
+                  "id": "1wZN1M1GXD98FrGoGHCf6c",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0UEdOHumL0d8Y_w258bl$z",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0oVDmqVK92uhvxn_fDjChk",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0oVDmqVK92uhvxp1TDjCgQ",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:884202",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"884202",
+          "propertySet": [
+              {
+                  "id": "0AvJ2LyxDD9QswyAUdMKIu",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3Cq2l6TGr6D8Ap_M9NKKHn",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0oVDmqVK92uhvxn_fDjCgQ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0oVDmqVK92uhvxp1TDj3Ui",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:884956",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"884956",
+          "propertySet": [
+              {
+                  "id": "0uPmTCIgXAdgmzItlh__DT",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0cq1x$34v0c82bzXqhd31r",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0oVDmqVK92uhvxn_fDj3Ui",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2itRpYRzvEvf$5LWhLaYJ_",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:332598",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"332598",
+          "propertySet": [
+              {
+                  "id": "17fQMlwOn0dxnvLh231tvR",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2i9gZTuWX5aQRWOeJStbSb",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2nYG68HmTEyRFM5nKLycjH",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2itRpYRzvEvf$5LWhLaYCG",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:333016",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"333016",
+          "propertySet": [
+              {
+                  "id": "3Ld8VT9ff5Iv77t4oJqC5K",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0Wtf2gpu10qRNddZzWpF9R",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2itRpYRzvEvf$5NVVLaYCG",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"26x_QKsKz3xfPtRisL2G8W",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:334713",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"334713",
+          "propertySet": [
+              {
+                  "id": "0X_nhACo1AGf8KTORtLBwc",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1w46WZ$OD2Rgx1tUEKLe05",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "26x_QKsKz3xfPtPJ2L2G8W",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfJ75",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:350253",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"350253",
+          "propertySet": [
+              {
+                  "id": "2PpwPDJ111VhhDnqzcqN_3",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0MZ0heGF1EReURiNyzoCe0",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfJ75",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfJ5q",
+          "name":"Ściana podstawowa:AE_Ogólne - 380mm:350364",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+          "Tag":"350364",
+          "propertySet": [
+              {
+                  "id": "2a28zC$uD84ADmClEgPKRr",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "35Eu5lJer4Cu_I$o2j5_cA",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfJ5q",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfGb4",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:352428",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"352428",
+          "propertySet": [
+              {
+                  "id": "1kvObWaPH2MfWZfe47gKjG",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24iTmEdgD0ix5mJVWnrog$",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfGb4",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfGB8",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:355104",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"355104",
+          "propertySet": [
+              {
+                  "id": "0GUslF76D5MPl_CweB4cgX",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "22xQ5JhJ93EhyVAHZOO_7e",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfGB8",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfGMD",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:355429",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"355429",
+          "propertySet": [
+              {
+                  "id": "11wB63wiL2mR7KK$MRWPWb",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2rAMibrwrBjgpv3lVhJGtf",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfGMD",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfGJ9",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:355617",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"355617",
+          "propertySet": [
+              {
+                  "id": "3zDmK9$Tj5_hcO_rP8n8Wm",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2jWUugJxrCnhre2Oh$_4t8",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfGJ9",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfGVf",
+          "name":"Ściana podstawowa:AE_Ogólne - 300 mm:355841",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 300 mm",
+          "Tag":"355841",
+          "propertySet": [
+              {
+                  "id": "3rL9PE63zBew8gr0wWyIYV",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2fO8hJpPL81PLJq2wnPshe",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfGVf",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfHby",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:356500",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"356500",
+          "propertySet": [
+              {
+                  "id": "1M6XWlHxX1e85oi4wst11P",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1G6MekaUTAPe4Oe$xxzGZ8",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfHby",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfHZ1",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:356649",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"356649",
+          "propertySet": [
+              {
+                  "id": "0so3uVTa92Zh0UOD8E8ZLL",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2ZgkO_66143RTUlh3sTfri",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfHZ1",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfHlV",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:356919",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"356919",
+          "propertySet": [
+              {
+                  "id": "0Sh8iJkUH6IP7_Qx0TrUys",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0sPEh7quT6gBB777Qn30fH",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfHlV",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfHsk",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:357446",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"357446",
+          "propertySet": [
+              {
+                  "id": "3BHru0iy19Gg$rKXJybROr",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1UFaxE2bT7wBLO1hMJjKOS",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfHsk",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfHnA",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:357794",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"357794",
+          "propertySet": [
+              {
+                  "id": "0ir4SqYEfDqu2SLfz6t1f_",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2$UA_DI2bEJeGETLqV4hYz",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfHnA",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfH$K",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:357948",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"357948",
+          "propertySet": [
+              {
+                  "id": "0ysBNWx5b24xRsUs6igXKl",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3EUWznk8bF1ghi70hU2fMc",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfH$K",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfHwq",
+          "name":"Ściana podstawowa:AE_Ogólne - 500 mm:358236",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 500 mm",
+          "Tag":"358236",
+          "propertySet": [
+              {
+                  "id": "1qJYGmwKz06QnrqENJuhTL",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "20OANzx_92$uUh6r1Cod8L",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfHwq",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfH31",
+          "name":"Ściana podstawowa:AE_Ogólne - 500 mm:358697",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 500 mm",
+          "Tag":"358697",
+          "propertySet": [
+              {
+                  "id": "3154Ef$UT5VvmQMWBjb4Q9",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "05_kRQksHD8gSFU8uX5wAb",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfH31",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfHEG",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:359032",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"359032",
+          "propertySet": [
+              {
+                  "id": "3oLaOCtkr6CRAapymwfyG8",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "29vG2kiCHDzBAGIuvNbnuQ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfHEG",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_401",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:359539",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"359539",
+          "propertySet": [
+              {
+                  "id": "1Lbwd$kbLDaRWWBPUZqVRH",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "19dOozlFrDWOPXEXF1RXpR",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_401",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_4DH",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:360227",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"360227",
+          "propertySet": [
+              {
+                  "id": "1uglD7yoT2JxdnRJkIq7Za",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3fVlop2tDEbfXBcLO2rWP1",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_4DH",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_4CC",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:360318",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"360318",
+          "propertySet": [
+              {
+                  "id": "39CxBhDq1Bvv6q1d6ie14x",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0gg4L8I2z6p8$f_gM1KlxE",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_4CC",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_4En",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:360387",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"360387",
+          "propertySet": [
+              {
+                  "id": "2R1wvQjLP3_Alq6ccqndQX",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2f49E49LD6kxFpNUaokBeW",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_4En",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_Bn$",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:360461",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"360461",
+          "propertySet": [
+              {
+                  "id": "1iCegF5Y9Dku6FmkDSZHiq",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0RWvHT8ujEoe57u2WWKM$O",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_Bn$",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_Bte",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:360858",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"360858",
+          "propertySet": [
+              {
+                  "id": "2bLbxubaj5oOB0Y2IsHhJ_",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1E5ceVK750qh3R1pKt15_G",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_Bte",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_Bva",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:360982",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"360982",
+          "propertySet": [
+              {
+                  "id": "2rhGjNXwLAUPq0Q9Svjx8s",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0ySeXGFkv5uQLOtSxEVloN",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_Bva",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_Bzr",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:361223",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"361223",
+          "propertySet": [
+              {
+                  "id": "2XrJlIuYL5shRxjknaRIMX",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0y4dTyDD52sBMCQynGupqN",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_Bzr",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_B$H",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:361379",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"361379",
+          "propertySet": [
+              {
+                  "id": "2qVnU_rN17ahCFZ2oqoMt$",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1Lw$2TQJ95OuwgjAW29Z7g",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_B$H",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_BjL",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:362279",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"362279",
+          "propertySet": [
+              {
+                  "id": "1wz2W2AOvDa8l0T70kfUPX",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0nuI9$GPT51Pq9gbPkv8t4",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_BjL",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_Bl2",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:362416",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"362416",
+          "propertySet": [
+              {
+                  "id": "1nB6y5Imb6Iwz6xk0c0rVk",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2l7Wly6tH6MeU8f8Qms4YB",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_Bl2",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_BIu",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:362698",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"362698",
+          "propertySet": [
+              {
+                  "id": "1IIBNcB6f7JxgeaD2td6JY",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "21KVHBUU53_g1DpyTvHd6J",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_BIu",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_B3f",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:363675",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"363675",
+          "propertySet": [
+              {
+                  "id": "3Ch2$LrbvCShYZ9w3gc_fP",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3ihlYCTtH25A6JuQzrfQvJ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_B3f",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_B7d",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:363925",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"363925",
+          "propertySet": [
+              {
+                  "id": "0DLCnippLDSPbKa$Ea6okT",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3v$21eDLf9Cwjit19W61zV",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_B7d",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_ASR",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:367465",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"367465",
+          "propertySet": [
+              {
+                  "id": "33UrqiHrrBRPEEFOCbtRGp",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0GkVRAKQTCnx3jCjowovlM",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_ASR",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_A3_",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:367756",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"367756",
+          "propertySet": [
+              {
+                  "id": "1e3BmWgz9FNQP6HL6XgKfF",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1Kr2KreVb8zwFszPasam5s",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_A3_",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_A5b",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:367895",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"367895",
+          "propertySet": [
+              {
+                  "id": "2qpbcyVl14fAaLWw4MYefg",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3mQ022YhL86vQEtSfhJVKu",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0iolcJb7T7nPNrqJz3uOY6",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_A9i",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:368158",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"368158",
+          "propertySet": [
+              {
+                  "id": "1B6mG$LHn9lO75GL6ipeQo",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0Ne47Mgg166QmjGPAU5J2T",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_A9i",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_ABH",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:368291",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"368291",
+          "propertySet": [
+              {
+                  "id": "0Z61CNZXH7E8enBpq9QU8V",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2eR1$taLTFrAcZOxCpNGUv",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_ABH",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_ADq",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:368390",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"368390",
+          "propertySet": [
+              {
+                  "id": "3OzxmA68DCWvcZsxlYJXqf",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2uPNQupTD3Gx1LU63afhvv",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_ADq",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_9m7",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:368757",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"368757",
+          "propertySet": [
+              {
+                  "id": "2iDxO4imX1O8io0ZKfrVWO",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0UabABQh1E$xOLakmBzKB2",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_9m7",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_9ou",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:368842",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"368842",
+          "propertySet": [
+              {
+                  "id": "2BlUm3Ph946QoLTpAmTRly",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0HOhO$XUjAkgHNk$PxtsdU",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_9ou",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_9qO",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:369002",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"369002",
+          "propertySet": [
+              {
+                  "id": "35aVNwwxn4pAtrIx_TEWt6",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3ZbHQHBO5EQ8PSHcbos$Ux",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_9qO",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"10hjMMF_z1qPCktVCENyE$",
+          "name":"Ściana podstawowa:AE_Ogólne - 300 mm:383513",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 300 mm",
+          "Tag":"383513",
+          "propertySet": [
+              {
+                  "id": "2p9MRLP95D9xyNGfHf4cJE",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2jfcDPxvb4nerzqvApgaHv",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "10hjMMF_z1qPCkrWuENyE$",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"10hjMMF_z1qPCktVCENyAL",
+          "name":"Ściana podstawowa:AE_Ogólne - 300 mm:383795",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 300 mm",
+          "Tag":"383795",
+          "propertySet": [
+              {
+                  "id": "3UeZMol5z0aPEyst_aEQOC",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3HmlMqiP55VPbRcAmZwMtd",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "10hjMMF_z1qPCkrWuENyAL",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"10hjMMF_z1qPCktVCENyNJ",
+          "name":"Ściana podstawowa:AE_Ogólne - 380mm:384117",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+          "Tag":"384117",
+          "propertySet": [
+              {
+                  "id": "3oZrcfBJz0mu99wQdmSfCL",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1AEdsOn5r8pxCWQoGqziSu",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "10hjMMF_z1qPCkrWuENyNJ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"10hjMMF_z1qPCktVCENyJs",
+          "name":"Ściana podstawowa:AE_Ogólne - 300 mm:384336",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 300 mm",
+          "Tag":"384336",
+          "propertySet": [
+              {
+                  "id": "2PiWvcRVzBDR85p1cxi8pS",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0IRBWd24XEmPwVAcdXh6OX",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "10hjMMF_z1qPCkrWuENyJs",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"10hjMMF_z1qPCktVCENyRg",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:384844",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"384844",
+          "propertySet": [
+              {
+                  "id": "3BYLbE8Vf6Nu9osAR1wzDc",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "25$dlSNib91BuTOzrXDc2W",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "10hjMMF_z1qPCkrWuENyRg",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0kXaNh7avF7QHy3tLqkU$E",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:405690",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"405690",
+          "propertySet": [
+              {
+                  "id": "0HJIyCNmPEhQuL_Xpt9IqQ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2211kLobL2IOo6sppdUnTO",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0kXaNh7avF7QHy18XqkU$E",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"1CF3HP6Tb4QuEgKCXITYiH",
+          "name":"Ściana podstawowa:AE_Witryna - 50 mm:419265",
+          "Object type":"Ściana podstawowa:AE_Witryna - 50 mm",
+          "Tag":"419265",
+          "propertySet": [
+              {
+                  "id": "1fVHmEYfvB9Ox3tYNw8SFS",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2TW15tYEP1ixD8GbK52Nq8",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1CF3HP6Tb4QuEgMpLITYiH",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"1CF3HP6Tb4QuEgKCXITYZR",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:419339",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"419339",
+          "propertySet": [
+              {
+                  "id": "0rp2A9E054SwUfyjUYv$Vt",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0RB796Ia1BtBrP6O1oVDVN",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1CF3HP6Tb4QuEgMpLITYZR",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"1CF3HP6Tb4QuEgKCXITYTW",
+          "name":"Ściana podstawowa:AE_Ogólne - 500 mm:420272",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 500 mm",
+          "Tag":"420272",
+          "propertySet": [
+              {
+                  "id": "2RVdCdj6v4hh8tP2q7ciJz",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0LwU2Yk8P27ueL62F_XA8q",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1CF3HP6Tb4QuEgMpLITYTW",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"1CF3HP6Tb4QuEgKCXITYJH",
+          "name":"Ściana podstawowa:AE_Ogólne - 500 mm:420353",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 500 mm",
+          "Tag":"420353",
+          "propertySet": [
+              {
+                  "id": "1qlu5hBrDBzuwWSc1Eu1Gg",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1DHeAAfrX0TRAJJ4kxSwr8",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1CF3HP6Tb4QuEgMpLITYJH",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"1CF3HP6Tb4QuEgKCXITYMn",
+          "name":"Ściana podstawowa:AE_Witryna - 50 mm:420705",
+          "Object type":"Ściana podstawowa:AE_Witryna - 50 mm",
+          "Tag":"420705",
+          "propertySet": [
+              {
+                  "id": "35hPAkr$T4xR$K1kGLRlR6",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "21eOaE_QX25gBXyvIctSof",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1CF3HP6Tb4QuEgMpLITYMn",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"3EJD64y2T4EvIIlRMTC4OZ",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:540124",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"540124",
+          "propertySet": [
+              {
+                  "id": "2pmnyescT0FhnPWFmpEMbi",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0C7egF0Z9BTeXtGCP8Xzp0",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3EJD64y2T4EvIIjaYTC4OZ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"3EJD64y2T4EvIIlRMTC3ju",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:540807",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"540807",
+          "propertySet": [
+              {
+                  "id": "0jfLn9qPz9KOvfeRV1dqeq",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0PRLTee3586RNEWdPxlbug",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3EJD64y2T4EvIIjaYTC3ju",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"3EJD64y2T4EvIIlRMTC3gS",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:541027",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"541027",
+          "propertySet": [
+              {
+                  "id": "1IGnFhw61FERyw40dp7U7f",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1KBibNt510APmC$XPjAdzB",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3EJD64y2T4EvIIjaYTC3gS",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"3EJD64y2T4EvIIlRMTC3Xe",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:541591",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"541591",
+          "propertySet": [
+              {
+                  "id": "1jAixx6qT0TQpZOm_HbZc7",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1nHzlgm1n6_eQaIdKzOnRl",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3EJD64y2T4EvIIjaYTC3Xe",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"3EJD64y2T4EvIIlRMTC3_x",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:541764",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"541764",
+          "propertySet": [
+              {
+                  "id": "2ipn2ZgJXCluZ3nIhSfT_U",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3T_LrJU6193OPiH1bidWJA",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3EJD64y2T4EvIIjaYTC3_x",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"3EJD64y2T4EvIIlRMTC3ze",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:541847",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"541847",
+          "propertySet": [
+              {
+                  "id": "0UAbkBZNLCxPo8jKW2mcZ0",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1VG4NNUVr9iAP2e9FlaXCi",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3EJD64y2T4EvIIjaYTC3ze",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"3EJD64y2T4EvIIlRMTC3xk",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:541969",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"541969",
+          "propertySet": [
+              {
+                  "id": "15G5CKthr8ZvdGD4FLso84",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2rhYf$i8n8nORDWHZLOB0N",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3EJD64y2T4EvIIjaYTC3xk",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"3EJD64y2T4EvIIlRMTC3wc",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:542041",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"542041",
+          "propertySet": [
+              {
+                  "id": "0yAnpoaeXFmQsfbOxYOKGF",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2X6p90GmD2YBZ1SqyXwvEl",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3EJD64y2T4EvIIjaYTC3wc",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"3EJD64y2T4EvIIlRMTC3w0",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:542079",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"542079",
+          "propertySet": [
+              {
+                  "id": "1Gf9OYwFv4s94HK56jYeaf",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0bMasYqqDBwgp4heY2ecC5",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3EJD64y2T4EvIIjaYTC3w0",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"3EJD64y2T4EvIIlRMTC3uw",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:542149",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"542149",
+          "propertySet": [
+              {
+                  "id": "1mqTJsl4j3m9Faw336h5I3",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "08FXx9XvDERAc90EyL8Czx",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3EJD64y2T4EvIIjaYTC3uw",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"3EJD64y2T4EvIIlRMTC3qD",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:542450",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"542450",
+          "propertySet": [
+              {
+                  "id": "3GGuA3Jjf0TPBcxeb19Oji",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2Zz1nyRm17UP0klUuKCTP_",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3EJD64y2T4EvIIjaYTC3qD",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"3EJD64y2T4EvIIlRMTC3n4",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:542651",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"542651",
+          "propertySet": [
+              {
+                  "id": "3Z2HB16h58AAJbYlCcAHyP",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3C2kmALNf26Bn_cGI8AIAf",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3EJD64y2T4EvIIjaYTC3n4",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"3EJD64y2T4EvIIlRMTC38d",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:543192",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"543192",
+          "propertySet": [
+              {
+                  "id": "0fS3aYRvTEyBQc1XisP31D",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "10lfGuf$XDYwUWsOuPHUhq",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3EJD64y2T4EvIIjaYTC38d",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"3EJD64y2T4EvIIlRMTC2aa",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:545499",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"545499",
+          "propertySet": [
+              {
+                  "id": "28XcVWhf596xNtmFV8ShuG",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2EBguwVsrAWxZ3tCYp$YTV",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1C7E05_fLCVOtcVBKQRT1E",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"15jBgJ4df0GwXJuL1YgfTg",
+          "name":"Ściana podstawowa:AE_Ogólne - 380mm:550875",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+          "Tag":"550875",
+          "propertySet": [
+              {
+                  "id": "0W_O8odUT9Xv7Dehtfq3Mt",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "34lM8YKGzAu8rCBaTRxNjV",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "15jBgJ4df0GwXJwgrYgfTg",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"15jBgJ4df0GwXJuL1Ygfwx",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:552458",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"552458",
+          "propertySet": [
+              {
+                  "id": "1aQFpYopT4YONhw30R7D70",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "00y2pYmy5C4QjilbWkA91n",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "15jBgJ4df0GwXJwgrYgfwx",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"15jBgJ4df0GwXJuL1Yge33",
+          "name":"Ściana podstawowa:AE_Ogólne - 380mm:553074",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+          "Tag":"553074",
+          "propertySet": [
+              {
+                  "id": "3r8yL5$HP3Wgijkn3QeEAW",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1StvrHn758mxYpGPDxJhnE",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "15jBgJ4df0GwXJwgrYge33",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"15jBgJ4df0GwXJuL1YgeA5",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:553524",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"553524",
+          "propertySet": [
+              {
+                  "id": "0wc8jEKz9219DVlXcgk0WD",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "36siDb8rz8Ve25aXxCQfWO",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "15jBgJ4df0GwXJwgrYgeA5",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2KPufnVTv81gAAH7LH46pU",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:554952",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"554952",
+          "propertySet": [
+              {
+                  "id": "2RBMtvrZ945g8icgMJf8Ns",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1Jk_kkxmPB9v4ySZMYYQBL",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2spPYEagrBLA69Qud2Hksu",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2KPufnVTv81gAAH7LH46Al",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:555449",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"555449",
+          "propertySet": [
+              {
+                  "id": "212VMrE0j31AEj5ze7p19U",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3So6Xeh8159R_LStXPNvXP",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2KPufnVTv81gAAJuXH46Al",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"1tDexFO5P1iPWqmzYGFQ_k",
+          "name":"Ściana podstawowa:AE_Ogólne - 380mm:592835",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+          "Tag":"592835",
+          "propertySet": [
+              {
+                  "id": "2cJysKah13ewrz1klP$sYQ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0OiQLD9D9Dcw2WXQdRH4Bz",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "045UhMhqzFkOxflJ4G9VbW",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"1tDexFO5P1iPWqmzYGFQjF",
+          "name":"Ściana podstawowa:AE_Ogólne - kotara:593698",
+          "Object type":"Ściana podstawowa:AE_Ogólne - kotara",
+          "Tag":"593698",
+          "propertySet": [
+              {
+                  "id": "3c_o4Xc8zDT8zQfXmKuXKV",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1w8mjZ4nT1FxbMs3m08Z$w",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1tDexFO5P1iPWqo2MGFQjF",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"1tDexFO5P1iPWqmzYGFRO3",
+          "name":"Ściana podstawowa:AE_Ogólne - kotara:594542",
+          "Object type":"Ściana podstawowa:AE_Ogólne - kotara",
+          "Tag":"594542",
+          "propertySet": [
+              {
+                  "id": "0s5gqFsErELemNgN_NbDJR",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3cIhT$on1DRBdt3ZCVYZEW",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1tDexFO5P1iPWqo2MGFRO3",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2uUynbq0f9RBW7aowMJs4Z",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:598301",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"598301",
+          "propertySet": [
+              {
+                  "id": "2k5oR62vD1vQK7TKqE30vi",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0IrFGs9TzFdxKf7yNWhBU9",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2PpyaS1BP5IOqh1N$cr7W3",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2uUynbq0f9RBW7aowMJsbL",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:600427",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"600427",
+          "propertySet": [
+              {
+                  "id": "2iG9UCrnn3tQpoqu7s$2og",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0cYVyyV1L8meS8z3nI8nKI",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2uUynbq0f9RBW7cDEMJsbL",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"1v_sWJlo59X8lj20i1p7dz",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:627490",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"627490",
+          "propertySet": [
+              {
+                  "id": "2qDioDIFLCtgO6fEdM3A_a",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "27JtO_p49CGApRYRjiUFEv",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1v_sWJlo59X8lj0$O1p7dz",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0mKwvPVC9DkO5ql64APhHg",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:840999",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"840999",
+          "propertySet": [
+              {
+                  "id": "3xEi99CyX2BwUMzSkb6_9e",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0zlFkgevr1pA2rMjUlTu8i",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0mKwvPVC9DkO5qjvmAPhHg",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfGWn",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:352729",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"352729",
+          "propertySet": [
+              {
+                  "id": "2cNRupmcfBtxDGa93nGzUM",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3CGyQpGJH7CRQ2MDDGhiHy",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfGWn",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfGkB",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:352867",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"352867",
+          "propertySet": [
+              {
+                  "id": "2HQAJL_4v98h0PlOW178Lg",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1Okw7fqWHBZxWZzFbF8qol",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfGkB",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfGjD",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:352933",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"352933",
+          "propertySet": [
+              {
+                  "id": "0mJ8XbseT7dOfRgWWYAnVM",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1SgNxxaivBWhibOB5pRcxW",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfGjD",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfHCS",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:359156",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"359156",
+          "propertySet": [
+              {
+                  "id": "0TESGUNLv4gvRz$P2mYFE$",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3yQSk22jjAJ9amAjc2tnh_",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfHCS",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"24ZTSdM7bD39hX0jOUfHBG",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:359224",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"359224",
+          "propertySet": [
+              {
+                  "id": "1FW7oSBXb7V8ZO0ShWkcc_",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2L5KLIPi95QRXhu9ulUmp2",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "24ZTSdM7bD39hX2IiUfHBG",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_46i",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:359902",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"359902",
+          "propertySet": [
+              {
+                  "id": "1OqRksk1jAGgNQcKiOZz2i",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2jp9LNuYbEsvrv6BhkoFFy",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_46i",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0g8FOw1mX0wREweb2m_48g",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:360024",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"360024",
+          "propertySet": [
+              {
+                  "id": "1OVYIvwXPBQebnOxjxcQqL",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2ENvcdh3TFHvOLjgaqUO1$",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0g8FOw1mX0wREwgQsm_48g",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0kXaNh7avF7QHy3tLqkYNI",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:391846",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"391846",
+          "propertySet": [
+              {
+                  "id": "0mbXtmr1P8L9EFdbJS9X1D",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "13aQHKB4b6YOSExlDq1JJC",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0kXaNh7avF7QHy18XqkYNI",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2PsTDU3rPC3Q4jVZxaRhcC",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:412054",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"412054",
+          "propertySet": [
+              {
+                  "id": "2c_mOqVpbABRF17UdAqKSu",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0tKMsqzELCvwCGsEoNBw3R",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2PsTDU3rPC3Q4jTSFaRhcC",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXyJU",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:421220",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"421220",
+          "propertySet": [
+              {
+                  "id": "1yH5CoUQ5CORfCsvgwgijE",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3vXH7akNfC$QXW7BLXWO4O",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXyJU",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXziC",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:422582",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"422582",
+          "propertySet": [
+              {
+                  "id": "01VwSEDCPEqg$2vMQ6Lvcy",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "13k$sm31L2COvZvUHCHJE1",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXziC",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXzso",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:422920",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"422920",
+          "propertySet": [
+              {
+                  "id": "3JM79AnKLFNxUMOzgckfO0",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0kBUAOikvDwxNJTibNxAjx",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXzso",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXztp",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:422985",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"422985",
+          "propertySet": [
+              {
+                  "id": "3KR9lcgZr63f63V1sbW5x0",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1VLQT9MWL5JeBRIHnmPHf2",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXztp",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXztt",
+          "name":"Ściana podstawowa:AE_Ogólne - 380mm:422989",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+          "Tag":"422989",
+          "propertySet": [
+              {
+                  "id": "1m8$iWSTDBrv6$HEWjs793",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2OVsZgMU5EHR$qWTB13EfI",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXztt",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXztq",
+          "name":"Ściana podstawowa:AE_Ogólne - 300 mm:422990",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 300 mm",
+          "Tag":"422990",
+          "propertySet": [
+              {
+                  "id": "1qZuNUHhn5W91rDcb$2iAk",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0oc0FnOEn0bOksIT9UsHx4",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXztq",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXztr",
+          "name":"Ściana podstawowa:AE_Ogólne - 500 mm:422991",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 500 mm",
+          "Tag":"422991",
+          "propertySet": [
+              {
+                  "id": "2SOiZz3$fAKguYerIruEjK",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1IQylZNIXFcBVBsOMBzd69",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXztr",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXzpK",
+          "name":"Ściana podstawowa:AE_Ogólne - 380mm:423278",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+          "Tag":"423278",
+          "propertySet": [
+              {
+                  "id": "2tCpaDYVb5evyDoJKxloKc",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3oVYyMXI5DWuGVadMGikRn",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXzpK",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXzyW",
+          "name":"Ściana podstawowa:AE_Ogólne - 380mm:423578",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+          "Tag":"423578",
+          "propertySet": [
+              {
+                  "id": "0Q7sUrwUD9IvXOuP45aEHo",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2VKQHRUyb3$xGnlIyAWA2t",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXzyW",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXz65",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:423999",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"423999",
+          "propertySet": [
+              {
+                  "id": "38F_uJm3rC_vAOySzxL1dp",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2B8kVMroPAdg6x7$WSrjZl",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXz65",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXz4Q",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:424096",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"424096",
+          "propertySet": [
+              {
+                  "id": "3rfWd7Uz15GeToKd7Et4m3",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3nFUDcrzz6QvxTBYgbT0nM",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXz4Q",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXz3i",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:424278",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"424278",
+          "propertySet": [
+              {
+                  "id": "2qV9SXWx5C39PCeSGTBhT4",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0jx9R2lfjAGBnKrUqfhSm_",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXz3i",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXzCc",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:424604",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"424604",
+          "propertySet": [
+              {
+                  "id": "2YrHe$G3HEkvWMVvLkXqiN",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2MCYn1paTFWBxrisTAcZBo",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXzCc",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXzAr",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:424719",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"424719",
+          "propertySet": [
+              {
+                  "id": "2QZ4sgSur0JviPWxbtj$Aa",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3i_HgWcfD9MBQoYp1fnD0$",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXzAr",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXz81",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:424891",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"424891",
+          "propertySet": [
+              {
+                  "id": "14j1K$rvvChRP9j80FCo5q",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0e9IVtRgP9_OEKsvMJWqRj",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXz81",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXzKZ",
+          "name":"Ściana podstawowa:AE_Ogólne - 300 mm:425113",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 300 mm",
+          "Tag":"425113",
+          "propertySet": [
+              {
+                  "id": "0wZndxYs1CkBaA8AQYgCve",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1liS$H8zXBUB2MI4eZKIMJ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXzKZ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXoce",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:426002",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"426002",
+          "propertySet": [
+              {
+                  "id": "3oHvgKUff1zwPA8pYxKVQ2",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3FPPfwnIH17xdV5B6VeAoG",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXoce",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXoaY",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:426136",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"426136",
+          "propertySet": [
+              {
+                  "id": "27vi5ssBnATvEuD8y1zJl3",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2hBzrihXH56hgzNLB1FZh4",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXoaY",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXobM",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:426220",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"426220",
+          "propertySet": [
+              {
+                  "id": "2IyTERuFT8VQTVX8dXqMh8",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0DK$7MDZn1XxPcmbOYctvh",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXobM",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXoZZ",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:426329",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"426329",
+          "propertySet": [
+              {
+                  "id": "1LUM4mLefEeuYHZlcOGAVZ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "03CgAsmhn9IvpflKRXkusd",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXoZZ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXoXH",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:426475",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"426475",
+          "propertySet": [
+              {
+                  "id": "1y9ILNEQ51chYUjXG1k8AV",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2cn3c02xD1Lv6PwUjzF5AA",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXoXH",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXoiP",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:426659",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"426659",
+          "propertySet": [
+              {
+                  "id": "3gJGnennr7hf$G5y7YQgdg",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2F7b3vGovCYeuLWRkHkX6n",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXoiP",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXohQ",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:426848",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"426848",
+          "propertySet": [
+              {
+                  "id": "2WzGuUCwf8GR58TgLUPYxt",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0hLABN9x902ByZECKscOC5",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXohQ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXoto",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:427080",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"427080",
+          "propertySet": [
+              {
+                  "id": "2pNyypwb15X8FrBBMsVEOH",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1o01zb6DrAkPGRZgMa9x8F",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXoto",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXoqr",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:427151",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"427151",
+          "propertySet": [
+              {
+                  "id": "2mIWs8yMf67ucnU8poGzCn",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0RLoXaERTBR9ofO3r87Tkc",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXoqr",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXoDE",
+          "name":"Ściana podstawowa:AE_Ogólne - 380mm:428788",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+          "Tag":"428788",
+          "propertySet": [
+              {
+                  "id": "1u9d1GVNb4GRAFBzE7Nqtb",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3EnpMpTzPACuaB2ywky4$n",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXoDE",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXoBB",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:428913",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"428913",
+          "propertySet": [
+              {
+                  "id": "3o8z8w$GjCZh4FrhMI8C20",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2L$53Z9tTEX8qOoaEw5cSt",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXoBB",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXoM3",
+          "name":"Ściana podstawowa:AE_Ogólne - 380mm:429113",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+          "Tag":"429113",
+          "propertySet": [
+              {
+                  "id": "0tDs3jVu94wgKzR813nlqW",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1JPaSLDxrEURl7SwLx3jc5",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXoM3",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXoIb",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:429343",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"429343",
+          "propertySet": [
+              {
+                  "id": "3BhkYTsdT6n87zX4sjcvWj",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2AGamr46P18eoUzYYQ$zgE",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXoIb",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXprD",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:431351",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"431351",
+          "propertySet": [
+              {
+                  "id": "3nOrAGNw110OEgovItH11t",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3K92foXo552OaIw6VQqWBy",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXprD",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXpmZ",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:431513",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"431513",
+          "propertySet": [
+              {
+                  "id": "1y_MFbb756Px$$WoeKZzFo",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "12$t9PPZnCif$aQ5pup_tm",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXpmZ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXpm6",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:431548",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"431548",
+          "propertySet": [
+              {
+                  "id": "1R_19Qg0v3OOg5KnmhKwDl",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0t5zvZ8Fr1rvD62BuobQio",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXpm6",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXp$E",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:431732",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"431732",
+          "propertySet": [
+              {
+                  "id": "1BMSZRtWbBVfztdGVfyyOt",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3_8oMA1jf9gwI$Y15P7GOS",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXp$E",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXpy5",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:431807",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"431807",
+          "propertySet": [
+              {
+                  "id": "28h3jnjYrAyf1oink$kc8j",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0K2B2PRb117xG4h6Myh3AQ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXpy5",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXpuR",
+          "name":"Ściana podstawowa:AE_Ogólne - 440 mm:432033",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 440 mm",
+          "Tag":"432033",
+          "propertySet": [
+              {
+                  "id": "1G171YjEHDpAJvfpTk04AO",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0$P8MIFcvFsvAW76W85guN",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXpuR",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXp5a",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:432350",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"432350",
+          "propertySet": [
+              {
+                  "id": "2HNujYUe574P28BPjOKJdm",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0kMn9RxrX2HfK7yrEW1NF6",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXp5a",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXp3D",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:432503",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"432503",
+          "propertySet": [
+              {
+                  "id": "1D02al2zrE9x9a66IqJEjb",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1TUkFHFfj1bgjYyM49wbWz",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXp3D",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXp1B",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:432625",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"432625",
+          "propertySet": [
+              {
+                  "id": "0TD8L3DuP5oPnMW2V1i2va",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1EpHHBzO5Al9FlyinbghSw",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXp1B",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXpFK",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:432750",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"432750",
+          "propertySet": [
+              {
+                  "id": "2cUjqLvIXFuA4MTH1eDP7Y",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1bzlnz3Iv949lcd5LdvMxZ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXpFK",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXpAz",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:432903",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"432903",
+          "propertySet": [
+              {
+                  "id": "24sqO$Jiz6swP6kGo2Ntzv",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0y8ZJ6fcPENRY3Szolldsq",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXpAz",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXp9J",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:433129",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"433129",
+          "propertySet": [
+              {
+                  "id": "0GuBKXHoX7qf1Ie3gp0v66",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1stqZh3XbCHeqqSW1Tdhhw",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXp9J",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXpNV",
+          "name":"Ściana podstawowa:AE_Ogólne - 380mm:433253",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+          "Tag":"433253",
+          "propertySet": [
+              {
+                  "id": "2zob4QUIPAFhklXtqmjsI5",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "14eshZZ9fCahRcAfrDrkTL",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXpNV",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXpNS",
+          "name":"Ściana podstawowa:AE_Ogólne - 300 mm:433254",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 300 mm",
+          "Tag":"433254",
+          "propertySet": [
+              {
+                  "id": "3b_ROYg3L1ywxn5hu5tqN$",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2Z9szR0srFoP8F3_Yv5qPx",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXpNS",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXpNT",
+          "name":"Ściana podstawowa:AE_Ogólne - 500 mm:433255",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 500 mm",
+          "Tag":"433255",
+          "propertySet": [
+              {
+                  "id": "23y49$nSX4bvSDbCGSDw_u",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3mYZvGhWfFGxf57dxVF3R4",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXpNT",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXpNI",
+          "name":"Ściana podstawowa:AE_Ogólne - 380mm:433256",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+          "Tag":"433256",
+          "propertySet": [
+              {
+                  "id": "3F1CASAgH5gh$_wmEwENVL",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1uBaK5yR96qQqGNh0E8$n9",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXpNI",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"2S5Uyqz1PAvOb6Q$kxXpNJ",
+          "name":"Ściana podstawowa:AE_Ogólne - 380mm:433257",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 380mm",
+          "Tag":"433257",
+          "propertySet": [
+              {
+                  "id": "0_o3DtE_99LhYPJJofXy2a",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1HPv_EIuzAlA95DwocUEVO",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2S5Uyqz1PAvOb6O0QxXpNJ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0TW4fkUWTCieKBGUi_3$Hx",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:433835",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"433835",
+          "propertySet": [
+              {
+                  "id": "3_yCuUxfP8n9J8QEihO2H9",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1AUHvkkI11Q8jzhgzXkAfs",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0TW4fkUWTCieKBIXO_3$Hx",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0TW4fkUWTCieKBGUi_3$MV",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:433999",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"433999",
+          "propertySet": [
+              {
+                  "id": "03HmKGFLL4PxZUVZkmdYwD",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1XdhGzCe16b8DZWCL_mKDT",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0TW4fkUWTCieKBIXO_3$MV",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0TW4fkUWTCieKBGUi_3$KM",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:434118",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"434118",
+          "propertySet": [
+              {
+                  "id": "0QdktWEq1DBRZN0PoBrWOP",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "33HuBmeH57DwVYrDe5W1Kx",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0TW4fkUWTCieKBIXO_3$KM",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0TW4fkUWTCieKBGUi_3yhU",
+          "name":"Ściana podstawowa:AE_Ogólne - 240 mm:434190",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 240 mm",
+          "Tag":"434190",
+          "propertySet": [
+              {
+                  "id": "0LQvT_Z0b6NRM1bbCjYzJS",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3oXX9tfJv8OQ4aU7nbEsyi",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0TW4fkUWTCieKBIXO_3yhU",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0TW4fkUWTCieKBGUi_3yfZ",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:434355",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"434355",
+          "propertySet": [
+              {
+                  "id": "3OuX_yTRjCuvyai1rQZ1Gj",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1wMDr571HChgTjUtT15AYJ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0TW4fkUWTCieKBIXO_3yfZ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0TW4fkUWTCieKBGUi_3yj9",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:434585",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"434585",
+          "propertySet": [
+              {
+                  "id": "2ukfTxAO954xVhy7IECnOu",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "1T26PU2P91sgjZq3QKiBeY",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0TW4fkUWTCieKBIXO_3yj9",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0TW4fkUWTCieKBGUi_3yu5",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:435413",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"435413",
+          "propertySet": [
+              {
+                  "id": "2dKBfViFz6PxWFu25gB_o9",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2eHNNTYHz2ORr2iRKZO2DP",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0TW4fkUWTCieKBIXO_3yu5",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0TW4fkUWTCieKBGUi_3y$E",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:435486",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"435486",
+          "propertySet": [
+              {
+                  "id": "2adAgP0Pr7BfjNm8SUwXj4",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0exa2BAJT2K942R7AOlu1D",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0TW4fkUWTCieKBIXO_3y$E",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0TW4fkUWTCieKBGUi_3yyF",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:435679",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"435679",
+          "propertySet": [
+              {
+                  "id": "0IsAFE88v2LuLXvmuROvHd",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0QhtnfNYD7CBnQF7a89jqu",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0TW4fkUWTCieKBIXO_3yyF",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0TW4fkUWTCieKBGUi_3ymQ",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:435914",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"435914",
+          "propertySet": [
+              {
+                  "id": "1z16i0OsfEb9zOH16HrPYW",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "341QLajRHCdufxoAIYvweb",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0TW4fkUWTCieKBIXO_3ymQ",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0TW4fkUWTCieKBGUi_3y0B",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:436955",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"436955",
+          "propertySet": [
+              {
+                  "id": "0xXYHnF9z6zQnxXlrN8Ujp",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "3fgEsBzHf7sOgilMccbvEc",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0TW4fkUWTCieKBIXO_3y0B",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+
+      {
+          "type: ":"IfcWallStandardCase",
+          "id":"0TW4fkUWTCieKBGUi_3y7u",
+          "name":"Ściana podstawowa:AE_Ogólne - 120 mm:437032",
+          "Object type":"Ściana podstawowa:AE_Ogólne - 120 mm",
+          "Tag":"437032",
+          "propertySet": [
+              {
+                  "id": "0hK6QMwdr4rey$Q8OukSA5",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "2DjpgTm_HASArG$d18SX47",
+                  "Name": "",
+                  "properties": [
+                  ]
+              },
+              {
+                  "id": "0TW4fkUWTCieKBIXO_3y7u",
+                  "Name": "",
+                  "properties": [
+                  ]
+              }
+          ],
+          "layer": "A-WALL-____-OTLN"
+      },
+    ]
+}
