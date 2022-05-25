@@ -1,3 +1,4 @@
+import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.w3c.dom.*;
@@ -33,8 +34,7 @@ public class dataOperations {
     static String propertySetIdElement2;
     static String propertySetIdElement3;
 
-    static File ifcFile = new File("Przykładowy plik IFC.xml");
-    static File dataFile = new File("Data.json");
+    static File ifcFile = new File("DataOperation/Przykładowy plik IFC.xml");
 
     static String propertiesId = "";
 
@@ -64,7 +64,9 @@ public class dataOperations {
     static JSONArray array;
     static JSONObject outer;
 
-    static JSONObject propertySetObject;
+    static JSONObject propertySetObject1;
+    static JSONObject propertySetObject2;
+    static JSONObject propertySetObject3;
     static JSONArray propertySetArray;
 
     static JSONObject propertiesObject;
@@ -75,10 +77,7 @@ public class dataOperations {
         BufferedWriter bfw;
         counter = 0;
         try {
-            fw = new FileWriter(dataFile);
             String clearFile = "";
-            fw.write(clearFile);
-            fw.close();
 
             fw = new FileWriter("FullData.json");
             fw.write(clearFile);
@@ -99,14 +98,21 @@ public class dataOperations {
 
             array = new JSONArray();
             outer = new JSONObject();
-            propertySetArray = new JSONArray();
+            propertiesObject = new JSONObject();
+
+            saveFromProperties();
 
             for (int temp=0; temp<nList.getLength(); temp++) {
                 Node nNode = nList.item(temp);
                 Node nNodeProperties = nListProperties.item(temp);
+
                 if (nNode.getNodeType() == Node.ELEMENT_NODE) {
                     Element eElement = (Element) nNode;
 
+                    //ifcWallStandardCaseChildNodes
+                    if (nNode.hasChildNodes()){
+                        visitChildNodes(nNode.getChildNodes());
+                    }
                     currentElement = nNode.getNodeName();
                     id = eElement.getAttribute("id");
                     name = eElement.getAttribute("Name");
@@ -116,6 +122,37 @@ public class dataOperations {
 
                     counter++;
 
+                    propertySetIdElement1 = propertySetId.get(0);
+                    propertySetIdElement2 = propertySetId.get(1);
+                    propertySetIdElement3 = propertySetId.get(2);
+                    propertySetId.clear();
+
+                    propertySetArray = new JSONArray();
+                    propertySetObject1 = new JSONObject();
+                    propertySetObject1.put("id", propertySetIdElement1);
+                    propertySetObject1.put("Name", mainProperitesName);
+
+                    propertySetObject2 = new JSONObject();
+                    propertySetObject2.put("id", propertySetIdElement2);
+                    propertySetObject2.put("Name", mainProperitesName);
+
+                    propertySetObject3 = new JSONObject();
+                    propertySetObject3.put("id", propertySetIdElement3);
+                    propertySetObject3.put("Name", mainProperitesName);
+
+                    propertiesArray = new JSONArray();
+                    propertiesObject.put("name", propertiesName);
+                    propertiesObject.put("value", propertiesValue);
+
+                    propertiesArray.put(propertiesObject);
+
+                    propertySetObject1.put("propertiesList", propertiesArray);
+                    propertySetObject2.put("propertiesList", propertiesArray);
+                    propertySetObject3.put("propertiesList", propertiesArray);
+                    propertySetArray.put(propertySetObject1);
+                    propertySetArray.put(propertySetObject2);
+                    propertySetArray.put(propertySetObject3);
+
                     jsonObject = new JSONObject();
                     jsonObject.put("id", id);
                     jsonObject.put("name", name);
@@ -123,13 +160,11 @@ public class dataOperations {
                     jsonObject.put("tag", tag);
                     jsonObject.put("layer", propertySetLayer);
 
+                    jsonObject.put("propertySet", propertySetArray);
+
                     array.put(jsonObject);
                 }
             }
-
-            saveFromProperties();
-            saveFromWallStandardCase();
-
             saveToFile();
 
         } catch (FileNotFoundException e) {
@@ -140,18 +175,6 @@ public class dataOperations {
             throw new RuntimeException(e);
         } catch (SAXException e) {
             throw new RuntimeException(e);
-        }
-    }
-    private static void saveFromWallStandardCase(){
-        for (int temp=0; temp<nList.getLength(); temp++){
-            Node nNode = nList.item(temp);
-            if (nNode.hasChildNodes()){
-                visitChildNodes(nNode.getChildNodes());
-            }
-            propertySetIdElement1 = propertySetId.get(0);
-            propertySetIdElement2 = propertySetId.get(1);
-            propertySetIdElement3 = propertySetId.get(2);
-            propertySetId.clear();
         }
     }
     private static void saveFromProperties(){
@@ -199,6 +222,7 @@ public class dataOperations {
     }
     private static void visitPropertiesChildNodes(NodeList nList) {
         Node node;
+        propertiesTagCounter = 0;
         for (int temp = 0; temp < nList.getLength(); temp++) {
             node = nList.item(temp);
             if (node.hasAttributes()) {
@@ -207,6 +231,7 @@ public class dataOperations {
                 System.out.println("NODE: " + node.getNodeName() + ": ");
                 if (node.getNodeName() == "IfcPropertySingleValue"){
                     propertiesTagCounter ++;
+                    System.out.println(propertiesTagCounter);
                 }
                 for (int i = 0; i < nodeMap.getLength(); i++) {
                     Node tempNode = nodeMap.item(i);
@@ -240,7 +265,6 @@ public class dataOperations {
             }
         }
     }
-
     private static void saveToFile(){
         outer.put("metaData", array);
         System.out.println(outer);

@@ -33,13 +33,12 @@ public class dataOperations {
     static String propertySetIdElement2;
     static String propertySetIdElement3;
 
-    static File ifcFile = new File("Przyk³adowy plik IFC.xml");
-    static File dataFile = new File("Data.json");
+    static File ifcFile = new File("DataOperation/Przyk³adowy plik IFC.xml");
 
     static String propertiesId = "";
 
-    //Properties variables
-        //Id list
+    //Properties Variable
+    // Id list
     static List<String> allPropertiesId = new ArrayList<>();
 
     //properties function variables
@@ -60,15 +59,22 @@ public class dataOperations {
 
     static int counter = 0;
 
+    static JSONObject jsonObject;
+    static JSONArray array;
+    static JSONObject outer;
+
+    static JSONObject propertySetObject;
+    static JSONArray propertySetArray;
+
+    static JSONObject propertiesObject;
+    static JSONArray propertiesArray;
+
     public static void main(String[] args){
         FileWriter fw;
         BufferedWriter bfw;
         counter = 0;
         try {
-            fw = new FileWriter(dataFile);
             String clearFile = "";
-            fw.write(clearFile);
-            fw.close();
 
             fw = new FileWriter("FullData.json");
             fw.write(clearFile);
@@ -78,12 +84,6 @@ public class dataOperations {
         }
 
         try {
-            //Pocz¹tkowa klamra w pliku .json
-            fw = new FileWriter(dataFile, true);
-            bfw = new BufferedWriter(fw);
-            bfw.write("{" +
-                    "\n   "+asciiChar+"metaData"+asciiChar+":"+" [");
-            bfw.close();
             //Dzialanie programu
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
@@ -93,14 +93,29 @@ public class dataOperations {
             nList = doc.getElementsByTagName("IfcWallStandardCase");
             nListProperties = doc.getElementsByTagName("properties");
 
-            JSONArray array = new JSONArray();
-            JSONObject outer = new JSONObject();
+            array = new JSONArray();
+            outer = new JSONObject();
+            propertySetObject = new JSONObject();
+            propertiesObject = new JSONObject();
+
+            saveFromProperties();
+            saveFromWallStandardCase();
 
             for (int temp=0; temp<nList.getLength(); temp++) {
                 Node nNode = nList.item(temp);
                 Node nNodeProperties = nListProperties.item(temp);
+
                 if (nNode.getNodeType() == Node.ELEMENT_NODE) {
                     Element eElement = (Element) nNode;
+
+                    //ifcWallStandardCaseChildNodes
+                    if (nNode.hasChildNodes()){
+                        visitChildNodes(nNode.getChildNodes());
+                    }
+                    propertySetIdElement1 = propertySetId.get(0);
+                    propertySetIdElement2 = propertySetId.get(1);
+                    propertySetIdElement3 = propertySetId.get(2);
+                    propertySetId.clear();
 
                     currentElement = nNode.getNodeName();
                     id = eElement.getAttribute("id");
@@ -111,31 +126,35 @@ public class dataOperations {
 
                     counter++;
 
-                    JSONObject jsonObject = new JSONObject();
+                    System.out.println(propertySetIdElement1);
+
+                    propertySetArray = new JSONArray();
+                    propertySetObject.put("id", propertySetIdElement1);
+                    propertySetObject.put("Name", mainProperitesName);
+
+                    propertiesArray = new JSONArray();
+                    propertiesObject.put("name", propertiesName);
+                    propertiesObject.put("value", propertiesValue);
+
+                    propertiesArray.put(propertiesObject);
+
+                    propertySetObject.put("properties", propertiesArray);
+                    propertySetArray.put(propertySetObject);
+
+                    jsonObject = new JSONObject();
                     jsonObject.put("id", id);
                     jsonObject.put("name", name);
                     jsonObject.put("objectType", objectType);
                     jsonObject.put("tag", tag);
                     jsonObject.put("layer", propertySetLayer);
 
+                    jsonObject.put("propertySet", propertySetArray);
+
                     array.put(jsonObject);
                 }
             }
+            saveToFile();
 
-            outer.put("metaData", array);
-            System.out.println(outer);
-
-            //createJsonObject();
-
-            saveFromProperties();
-            saveFromWallStandardCase();
-
-            //Koñcowa klamra w pliku .json
-            fw = new FileWriter(dataFile, true);
-            bfw = new BufferedWriter(fw);
-            bfw.write("\n    ]" +
-                    "\n}");
-            bfw.close();
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         } catch (ParserConfigurationException e) {
@@ -148,16 +167,6 @@ public class dataOperations {
     }
     private static void saveFromWallStandardCase(){
         for (int temp=0; temp<nList.getLength(); temp++){
-            Node nNode = nList.item(temp);
-            if (nNode.hasChildNodes()){
-                visitChildNodes(nNode.getChildNodes());
-            }
-            propertySetIdElement1 = propertySetId.get(0);
-            propertySetIdElement2 = propertySetId.get(1);
-            propertySetIdElement3 = propertySetId.get(2);
-            propertySetId.clear();
-
-            saveAllDataToFile();
         }
     }
     private static void saveFromProperties(){
@@ -206,6 +215,7 @@ public class dataOperations {
     private static void visitPropertiesChildNodes(NodeList nList) {
         Node node;
         for (int temp = 0; temp < nList.getLength(); temp++) {
+            propertiesTagCounter = 0;
             node = nList.item(temp);
             if (node.hasAttributes()) {
                 // get attributes names and values
@@ -246,68 +256,19 @@ public class dataOperations {
             }
         }
     }
-    private static void saveAllDataToFile(){
-        String properties = "";
-        //Dynamicznie tworzenie nowych elementów properties
-        for (int i=0; i<propertiesTagCounter; i++){
-            properties = properties+"\n                      {\n"
-                    +"                          "+asciiChar+"name"+asciiChar+": "+asciiChar+propertiesName+asciiChar+",\n"
-                    +"                          "+asciiChar+"value"+asciiChar+": "+asciiChar+propertiesValue+asciiChar+"\n"+
-                    "                      }";
-            propertiesTagCounter = 0;
-        }
-        //G³ówny zapis
-        String fullData =
-                "      {\n"
-                        +"          "+asciiChar+"type: "+asciiChar +":"+asciiChar+currentElement+asciiChar+",\n"
-                        +"          "+asciiChar+"id"+asciiChar+":"+asciiChar+id+asciiChar+",\n"
-                        +"          "+asciiChar+"name"+asciiChar+":"+asciiChar+name+asciiChar+",\n"
-                        +"          "+asciiChar+"Object type"+asciiChar+":"+asciiChar+objectType+asciiChar+",\n"
-                        +"          "+asciiChar+"Tag"+asciiChar+":"+asciiChar+tag+asciiChar+",\n"
-                        +"          "+asciiChar+"propertySet"+asciiChar+": [\n"
-                        +"              {\n"
-                        +"                  "+asciiChar+"id"+asciiChar+": "+asciiChar+propertySetIdElement1+asciiChar+",\n"
-                        +"                  "+asciiChar+"Name"+asciiChar+": "+asciiChar+mainProperitesName+asciiChar+",\n"
-                        +"                  "+asciiChar+"properties"+asciiChar+": ["
-                        +"                  "+properties+"\n"
-                        +"                  ]\n"
-                        +"              },\n"
-                        +"              {\n"
-                        +"                  "+asciiChar+"id"+asciiChar+": "+asciiChar+propertySetIdElement2+asciiChar+",\n"
-                        +"                  "+asciiChar+"Name"+asciiChar+": "+asciiChar+mainProperitesName+asciiChar+",\n"
-                        +"                  "+asciiChar+"properties"+asciiChar+": ["
-                        +"                  "+properties+"\n"
-                        +"                  ]\n"
-                        +"              },\n"
-                        +"              {\n"
-                        +"                  "+asciiChar+"id"+asciiChar+": "+asciiChar+propertySetIdElement3+asciiChar+",\n"
-                        +"                  "+asciiChar+"Name"+asciiChar+": "+asciiChar+mainProperitesName+asciiChar+",\n"
-                        +"                  "+asciiChar+"properties"+asciiChar+": ["
-                        +"                  "+properties+"\n"
-                        +"                  ]\n"
-                        +"              }\n"
-                        +"          ],\n"
-                        +"          "+asciiChar+"layer"+asciiChar+": "+asciiChar+propertySetLayer+asciiChar+"\n"
-                        +"      },";
+    private static void saveToFile(){
+        outer.put("metaData", array);
+        System.out.println(outer);
+
+        //save to file()
+        FileWriter fw = null;
         try {
-            FileWriter fw = new FileWriter(dataFile, true);
+            fw = new FileWriter("FullData.json");
             BufferedWriter bfw = new BufferedWriter(fw);
-            bfw.write("\n"+"\n"+fullData);
+            bfw.write(String.valueOf(outer));
             bfw.close();
         } catch (IOException e) {
-            throw new RuntimeException(e);
+            e.printStackTrace();
         }
-    }
-
-    public static void createJsonObject(){
-        JsonObject jsonObject = new JsonObject();
-
-        jsonObject.setId(id);
-        jsonObject.setName(name);
-        jsonObject.setObjectType(objectType);
-        jsonObject.setTag(tag);
-        jsonObject.setLayer(propertySetLayer);
-
-        jsonObject.createJSONObject();
     }
 }
