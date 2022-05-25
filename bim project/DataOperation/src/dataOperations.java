@@ -43,7 +43,7 @@ public class dataOperations {
     static List<String> allPropertiesId = new ArrayList<>();
 
     //properties function variables
-    static String mainProperitesName = "";
+    static List<String> mainProperitesName = new ArrayList<>();
 
     static String currentElement;
     static String id;
@@ -55,8 +55,8 @@ public class dataOperations {
     static int propertiesTagCounter = 0;
     static Map<String, String> properitesElementStringMap;
 
-    static String propertiesName;
-    static String propertiesValue;
+    static List<String> propertiesName = new ArrayList<>();
+    static List<String> propertiesValue = new ArrayList<>();
 
     static int counter = 0;
 
@@ -130,20 +130,22 @@ public class dataOperations {
                     propertySetArray = new JSONArray();
                     propertySetObject1 = new JSONObject();
                     propertySetObject1.put("id", propertySetIdElement1);
-                    propertySetObject1.put("Name", mainProperitesName);
+                    propertySetObject1.put("Name", mainProperitesName.get(temp));
 
                     propertySetObject2 = new JSONObject();
                     propertySetObject2.put("id", propertySetIdElement2);
-                    propertySetObject2.put("Name", mainProperitesName);
+                    propertySetObject2.put("Name", mainProperitesName.get(temp));
 
                     propertySetObject3 = new JSONObject();
                     propertySetObject3.put("id", propertySetIdElement3);
-                    propertySetObject3.put("Name", mainProperitesName);
+                    propertySetObject3.put("Name", mainProperitesName.get(temp));
 
                     propertiesArray = new JSONArray();
-                    propertiesObject.put("name", propertiesName);
-                    propertiesObject.put("value", propertiesValue);
+                    propertiesObject.put("name", propertiesName.get(temp));
 
+                    System.out.println(propertiesValue.get(temp));
+                    //pvalue and pname - done
+                    propertiesObject.put("value", propertiesValue.get(temp));
                     propertiesArray.put(propertiesObject);
 
                     propertySetObject1.put("propertiesList", propertiesArray);
@@ -228,34 +230,28 @@ public class dataOperations {
             if (node.hasAttributes()) {
                 // get attributes names and values
                 NamedNodeMap nodeMap = node.getAttributes();
-                System.out.println("NODE: " + node.getNodeName() + ": ");
                 if (node.getNodeName() == "IfcPropertySingleValue"){
                     propertiesTagCounter ++;
-                    System.out.println(propertiesTagCounter);
                 }
                 for (int i = 0; i < nodeMap.getLength(); i++) {
                     Node tempNode = nodeMap.item(i);
                     //System.out.println(tempNode.getNodeValue());
                     propertiesId = tempNode.getNodeValue();
                     if (tempNode.getNodeName() == "id") {
-                        System.out.println("id: " + propertiesId);
                         for (int k = 0; k < allPropertySetId.size(); k++) {
                             if (propertiesId.equals(allPropertySetId.get(k))) {
-                                System.out.println("To samo id");
                                 allPropertiesId.add(propertiesId);
                             }
                         }
                     } else if (tempNode.getNodeName() == "Name" && node.getNodeName() == "IfcPropertySet") {
-                        mainProperitesName = tempNode.getNodeValue();
-                        System.out.println("Name do zapisu" + ":" + mainProperitesName);
+                        String mpName = tempNode.getNodeValue();
+                        mainProperitesName.add(mpName);
                     } else if (tempNode.getNodeName() == "Name" && node.getNodeName() == "IfcPropertySingleValue"){
-                        propertiesName = tempNode.getNodeValue();
-                        System.out.println(tempNode.getNodeName()+": "+propertiesName);
+                        String pNameString = tempNode.getNodeValue();
+                        propertiesName.add(pNameString);
                     } else if (tempNode.getNodeName() == "NominalValue"){
-                        propertiesValue = tempNode.getNodeValue();
-                        System.out.println(tempNode.getNodeName()+": "+propertiesValue);
-                    }else {
-                        System.out.println(tempNode.getNodeName() + ":" + propertiesId);
+                        String pValue = tempNode.getNodeValue();
+                        propertiesValue.add(pValue);
                     }
                 }
                 if (node.hasChildNodes()) {
